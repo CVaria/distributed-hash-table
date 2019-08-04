@@ -1,0 +1,500 @@
+Time 5 Answer for request with ID 501: Like a Rolling Stone with value  1 found in node 22
+Time 4 Answer for request with ID 502: Respect with value  5 found in node 22
+Time 4 Answer for request with ID 503: Hey Jude with value  8 found in node 22
+Time 6 Answer for request with ID 504: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 505: What's Going On with value  4 found in node 124
+Time 6 Answer for request with ID 506: What's Going On with value  4 found in node 124
+Time 5 Answer for request with ID 507: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 508: Johnny B. Goode with value  7 found in node 124
+Time 2 Answer for request with ID 509: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 510: Hey Jude with value  8 found in node 22
+Time 14 Answer for request with ID 511: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 512: What'd I Say with value  10 found in node 22
+Time 6 Answer for request with ID 513: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 514: Good Vibrations with value  6 found in node 22
+Time 5 Answer for request with ID 515: Satisfaction with value  2 found in node 124
+Time 4 Answer for request with ID 516: What'd I Say with value  10 found in node 22
+Time 20 Answer for request with ID 517: Imagine with value  3 found in node 124
+Time 13 Answer for request with ID 518: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 519: Satisfaction with value  2 found in node 124
+Time 4 Answer for request with ID 520: What'd I Say with value  10 found in node 22
+Time 5 Answer for request with ID 521: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 522: What's Going On with value  4 found in node 124
+Time 5 Answer for request with ID 523: Good Vibrations with value  6 found in node 22
+Time 18 Answer for request with ID 524: Smells Like Teen Spirit with value  9 found in node 124
+Time 8 Answer for request with ID 525: Respect with value  5 found in node 22
+Time 5 Answer for request with ID 526: Good Vibrations with value  6 found in node 22
+Time 4 Answer for request with ID 527: Like a Rolling Stone with value  1 found in node 22
+Time 14 Answer for request with ID 528: Smells Like Teen Spirit with value  9 found in node 124
+Time 5 Answer for request with ID 529: Imagine with value  3 found in node 124
+Time 4 Answer for request with ID 530: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 531: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 532: Satisfaction with value  2 found in node 124
+Time 12 Answer for request with ID 533: Satisfaction with value  2 found in node 124
+Time 10 Answer for request with ID 534: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 535: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 536: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 537: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 538: Imagine with value  3 found in node 124
+Time 2 Answer for request with ID 539: Johnny B. Goode with value  7 found in node 124
+Time 11 Answer for request with ID 540: What's Going On with value  4 found in node 124
+Time 7 Answer for request with ID 541: What'd I Say with value  10 found in node 22
+Time 4 Answer for request with ID 542: Respect with value  5 found in node 22
+Time 2 Answer for request with ID 543: Like a Rolling Stone with value  1 found in node 22
+Time 2 Answer for request with ID 544: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 545: Smells Like Teen Spirit with value  9 found in node 124
+Time 7 Answer for request with ID 546: Smells Like Teen Spirit with value  9 found in node 124
+Time 15 Answer for request with ID 547: Imagine with value  3 found in node 124
+Time 6 Answer for request with ID 548: Imagine with value  3 found in node 124
+Time 5 Answer for request with ID 549: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 550: Respect with value  5 found in node 22
+Time 2 Answer for request with ID 551: Satisfaction with value  2 found in node 124
+Time 5 Answer for request with ID 552: Imagine with value  3 found in node 124
+Time 15 Answer for request with ID 553: What'd I Say with value  10 found in node 22
+Time 6 Answer for request with ID 554: What's Going On with value  4 found in node 124
+Time 10 Answer for request with ID 555: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 556: Smells Like Teen Spirit with value  9 found in node 124
+Time 7 Answer for request with ID 557: Respect with value  5 found in node 22
+Time 4 Answer for request with ID 558: Johnny B. Goode with value  7 found in node 124
+Time 5 Answer for request with ID 559: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 560: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 561: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 562: Satisfaction with value  2 found in node 124
+Time 4 Answer for request with ID 563: Hey Jude with value  8 found in node 22
+Time 15 Answer for request with ID 564: Like a Rolling Stone with value  1 found in node 22
+Time 12 Answer for request with ID 565: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 566: Respect with value  5 found in node 22
+Time 9 Answer for request with ID 567: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 568: Hey Jude with value  8 found in node 22
+Time 6 Answer for request with ID 569: Johnny B. Goode with value  7 found in node 124
+Time 17 Answer for request with ID 570: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 571: Like a Rolling Stone with value  1 found in node 22
+Time 11 Answer for request with ID 572: Imagine with value  3 found in node 124
+Time 2 Answer for request with ID 573: Smells Like Teen Spirit with value  9 found in node 124
+Time 4 Answer for request with ID 574: Johnny B. Goode with value  7 found in node 124
+Time 12 Answer for request with ID 575: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 576: Imagine with value  3 found in node 124
+Time 5 Answer for request with ID 577: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 578: Like a Rolling Stone with value  1 found in node 22
+Time 2 Answer for request with ID 579: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 580: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 581: Smells Like Teen Spirit with value  9 found in node 124
+Time 18 Answer for request with ID 582: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 583: What'd I Say with value  10 found in node 22
+Time 3 Answer for request with ID 584: Smells Like Teen Spirit with value  9 found in node 124
+Time 4 Answer for request with ID 585: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 586: Respect with value  5 found in node 22
+Time 13 Answer for request with ID 587: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 588: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 589: Imagine with value  3 found in node 124
+Time 7 Answer for request with ID 590: Like a Rolling Stone with value  1 found in node 22
+Time 5 Answer for request with ID 591: Respect with value  5 found in node 22
+Time 7 Answer for request with ID 592: Johnny B. Goode with value  7 found in node 124
+Time 13 Answer for request with ID 593: Hey Jude with value  8 found in node 22
+Time 2 Answer for request with ID 594: Good Vibrations with value  6 found in node 22
+Time 5 Answer for request with ID 595: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 596: Respect with value  5 found in node 22
+Time 10 Answer for request with ID 597: What'd I Say with value  10 found in node 22
+Time 9 Answer for request with ID 598: Respect with value  5 found in node 22
+Time 7 Answer for request with ID 599: Johnny B. Goode with value  7 found in node 124
+Time 2 Answer for request with ID 600: Smells Like Teen Spirit with value  9 found in node 124
+Time 4 Answer for request with ID 601: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 602: Imagine with value  3 found in node 124
+Time 5 Answer for request with ID 603: What'd I Say with value  10 found in node 22
+Time 16 Answer for request with ID 604: Hey Jude with value  8 found in node 22
+Time 8 Answer for request with ID 605: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 606: What'd I Say with value  10 found in node 22
+Time 5 Answer for request with ID 607: Hey Jude with value  8 found in node 22
+Time 5 Answer for request with ID 608: Johnny B. Goode with value  7 found in node 124
+Time 8 Answer for request with ID 609: Hey Jude with value  8 found in node 22
+Time 10 Answer for request with ID 610: Like a Rolling Stone with value  1 found in node 22
+Time 6 Answer for request with ID 611: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 612: Smells Like Teen Spirit with value  9 found in node 124
+Time 7 Answer for request with ID 613: What'd I Say with value  10 found in node 22
+Time 3 Answer for request with ID 614: Johnny B. Goode with value  7 found in node 124
+Time 15 Answer for request with ID 615: What's Going On with value  4 found in node 124
+Time 2 Answer for request with ID 616: Respect with value  5 found in node 22
+Time 9 Answer for request with ID 617: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 618: Smells Like Teen Spirit with value  9 found in node 124
+Time 2 Answer for request with ID 619: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 620: Hey Jude with value  8 found in node 22
+Time 6 Answer for request with ID 621: Respect with value  5 found in node 22
+Time 12 Answer for request with ID 622: What's Going On with value  4 found in node 124
+Time 5 Answer for request with ID 623: What'd I Say with value  10 found in node 22
+Time 11 Answer for request with ID 624: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 625: What's Going On with value  4 found in node 124
+Time 2 Answer for request with ID 626: What's Going On with value  4 found in node 124
+Time 16 Answer for request with ID 627: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 628: Good Vibrations with value  6 found in node 22
+Time 7 Answer for request with ID 629: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 630: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 631: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 632: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 633: Respect with value  5 found in node 22
+Time 13 Answer for request with ID 634: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 635: Johnny B. Goode with value  7 found in node 124
+Time 6 Answer for request with ID 636: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 637: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 638: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 639: Johnny B. Goode with value  7 found in node 124
+Time 20 Answer for request with ID 640: Imagine with value  3 found in node 124
+Time 4 Answer for request with ID 641: Good Vibrations with value  6 found in node 22
+Time 4 Answer for request with ID 642: Good Vibrations with value  6 found in node 22
+Time 4 Answer for request with ID 643: What'd I Say with value  10 found in node 22
+Time 3 Answer for request with ID 644: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 645: Hey Jude with value  8 found in node 22
+Time 14 Answer for request with ID 646: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 647: Hey Jude with value  8 found in node 22
+Time 5 Answer for request with ID 648: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 649: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 650: Imagine with value  3 found in node 124
+Time 4 Answer for request with ID 651: Hey Jude with value  8 found in node 22
+Time 10 Answer for request with ID 652: Good Vibrations with value  6 found in node 22
+Time 11 Answer for request with ID 653: Hey Jude with value  8 found in node 22
+Time 6 Answer for request with ID 654: What'd I Say with value  10 found in node 22
+Time 4 Answer for request with ID 655: Satisfaction with value  2 found in node 124
+Time 18 Answer for request with ID 656: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 657: Like a Rolling Stone with value  1 found in node 22
+Time 10 Answer for request with ID 658: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 659: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 660: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 661: Imagine with value  3 found in node 124
+Time 11 Answer for request with ID 662: Smells Like Teen Spirit with value  9 found in node 124
+Time 9 Answer for request with ID 663: What'd I Say with value  10 found in node 22
+Time 6 Answer for request with ID 664: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 665: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 666: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 667: Good Vibrations with value  6 found in node 22
+Time 9 Answer for request with ID 668: Like a Rolling Stone with value  1 found in node 22
+Time 18 Answer for request with ID 669: What's Going On with value  4 found in node 124
+Time 5 Answer for request with ID 670: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 671: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 672: Hey Jude with value  8 found in node 22
+Time 2 Answer for request with ID 673: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 674: Imagine with value  3 found in node 124
+Time 12 Answer for request with ID 675: Satisfaction with value  2 found in node 124
+Time 14 Answer for request with ID 676: Good Vibrations with value  6 found in node 22
+Time 2 Answer for request with ID 677: Good Vibrations with value  6 found in node 22
+Time 5 Answer for request with ID 678: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 679: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 680: What'd I Say with value  10 found in node 22
+Time 3 Answer for request with ID 681: Smells Like Teen Spirit with value  9 found in node 124
+Time 2 Answer for request with ID 682: Hey Jude with value  8 found in node 22
+Time 2 Answer for request with ID 683: Satisfaction with value  2 found in node 124
+Time 16 Answer for request with ID 684: Respect with value  5 found in node 22
+Time 7 Answer for request with ID 685: Good Vibrations with value  6 found in node 22
+Time 7 Answer for request with ID 686: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 687: Satisfaction with value  2 found in node 124
+Time 9 Answer for request with ID 688: Respect with value  5 found in node 22
+Time 6 Answer for request with ID 689: Good Vibrations with value  6 found in node 22
+Time 4 Answer for request with ID 690: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 691: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 692: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 693: Good Vibrations with value  6 found in node 22
+Time 4 Answer for request with ID 694: Smells Like Teen Spirit with value  9 found in node 124
+Time 8 Answer for request with ID 695: What'd I Say with value  10 found in node 22
+Time 14 Answer for request with ID 696: Respect with value  5 found in node 22
+Time 12 Answer for request with ID 697: Satisfaction with value  2 found in node 124
+Time 4 Answer for request with ID 698: Imagine with value  3 found in node 124
+Time 11 Answer for request with ID 699: Satisfaction with value  2 found in node 124
+Time 4 Answer for request with ID 700: What's Going On with value  4 found in node 124
+Time 6 Answer for request with ID 701: Respect with value  5 found in node 22
+Time 15 Answer for request with ID 702: Johnny B. Goode with value  7 found in node 124
+Time 6 Answer for request with ID 703: Like a Rolling Stone with value  1 found in node 22
+Time 4 Answer for request with ID 704: Imagine with value  3 found in node 124
+Time 4 Answer for request with ID 705: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 706: What's Going On with value  4 found in node 124
+Time 12 Answer for request with ID 707: Satisfaction with value  2 found in node 124
+Time 8 Answer for request with ID 708: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 709: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 710: Satisfaction with value  2 found in node 124
+Time 4 Answer for request with ID 711: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 712: Respect with value  5 found in node 22
+Time 9 Answer for request with ID 713: Smells Like Teen Spirit with value  9 found in node 124
+Time 9 Answer for request with ID 714: What'd I Say with value  10 found in node 22
+Time 6 Answer for request with ID 715: What'd I Say with value  10 found in node 22
+Time 3 Answer for request with ID 716: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 717: Hey Jude with value  8 found in node 22
+Time 2 Answer for request with ID 718: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 719: What'd I Say with value  10 found in node 22
+Time 4 Answer for request with ID 720: Good Vibrations with value  6 found in node 22
+Time 16 Answer for request with ID 721: Good Vibrations with value  6 found in node 22
+Time 2 Answer for request with ID 722: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 723: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 724: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 725: Smells Like Teen Spirit with value  9 found in node 124
+Time 10 Answer for request with ID 726: Good Vibrations with value  6 found in node 22
+Time 5 Answer for request with ID 727: Smells Like Teen Spirit with value  9 found in node 124
+Time 11 Answer for request with ID 728: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 729: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 730: Johnny B. Goode with value  7 found in node 124
+Time 16 Answer for request with ID 731: Good Vibrations with value  6 found in node 22
+Time 8 Answer for request with ID 732: What'd I Say with value  10 found in node 22
+Time 5 Answer for request with ID 733: Satisfaction with value  2 found in node 124
+Time 4 Answer for request with ID 734: Satisfaction with value  2 found in node 124
+Time 11 Answer for request with ID 735: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 736: What's Going On with value  4 found in node 124
+Time 8 Answer for request with ID 737: Like a Rolling Stone with value  1 found in node 22
+Time 4 Answer for request with ID 738: Respect with value  5 found in node 22
+Time 6 Answer for request with ID 739: Like a Rolling Stone with value  1 found in node 22
+Time 5 Answer for request with ID 740: Imagine with value  3 found in node 124
+Time 11 Answer for request with ID 741: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 742: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 743: Satisfaction with value  2 found in node 124
+Time 4 Answer for request with ID 744: Respect with value  5 found in node 22
+Time 2 Answer for request with ID 745: Satisfaction with value  2 found in node 124
+Time 2 Answer for request with ID 746: Imagine with value  3 found in node 124
+Time 4 Answer for request with ID 747: Good Vibrations with value  6 found in node 22
+Time 13 Answer for request with ID 748: What'd I Say with value  10 found in node 22
+Time 6 Answer for request with ID 749: Satisfaction with value  2 found in node 124
+Time 4 Answer for request with ID 750: What'd I Say with value  10 found in node 22
+Time 3 Answer for request with ID 751: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 752: Smells Like Teen Spirit with value  9 found in node 124
+Time 4 Answer for request with ID 753: Respect with value  5 found in node 22
+Time 2 Answer for request with ID 754: Imagine with value  3 found in node 124
+Time 11 Answer for request with ID 755: What's Going On with value  4 found in node 124
+Time 9 Answer for request with ID 756: What's Going On with value  4 found in node 124
+Time 8 Answer for request with ID 757: Smells Like Teen Spirit with value  9 found in node 124
+Time 2 Answer for request with ID 758: Satisfaction with value  2 found in node 124
+Time 2 Answer for request with ID 759: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 760: Satisfaction with value  2 found in node 124
+Time 9 Answer for request with ID 761: Imagine with value  3 found in node 124
+Time 8 Answer for request with ID 762: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 763: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 764: Satisfaction with value  2 found in node 124
+Time 6 Answer for request with ID 765: Respect with value  5 found in node 22
+Time 11 Answer for request with ID 766: What'd I Say with value  10 found in node 22
+Time 7 Answer for request with ID 767: Respect with value  5 found in node 22
+Time 2 Answer for request with ID 768: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 769: Johnny B. Goode with value  7 found in node 124
+Time 2 Answer for request with ID 770: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 771: Smells Like Teen Spirit with value  9 found in node 124
+Time 16 Answer for request with ID 772: What'd I Say with value  10 found in node 22
+Time 16 Answer for request with ID 773: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 774: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 775: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 776: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 777: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 778: Good Vibrations with value  6 found in node 22
+Time 14 Answer for request with ID 779: Satisfaction with value  2 found in node 124
+Time 12 Answer for request with ID 780: Respect with value  5 found in node 22
+Time 7 Answer for request with ID 781: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 782: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 783: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 784: Imagine with value  3 found in node 124
+Time 17 Answer for request with ID 785: What'd I Say with value  10 found in node 22
+Time 3 Answer for request with ID 786: What'd I Say with value  10 found in node 22
+Time 5 Answer for request with ID 787: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 788: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 789: What's Going On with value  4 found in node 124
+Time 11 Answer for request with ID 790: Good Vibrations with value  6 found in node 22
+Time 8 Answer for request with ID 791: Smells Like Teen Spirit with value  9 found in node 124
+Time 6 Answer for request with ID 792: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 793: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 794: Respect with value  5 found in node 22
+Time 2 Answer for request with ID 795: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 796: Respect with value  5 found in node 22
+Time 14 Answer for request with ID 797: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 798: Satisfaction with value  2 found in node 124
+Time 5 Answer for request with ID 799: What's Going On with value  4 found in node 124
+Time 6 Answer for request with ID 800: Respect with value  5 found in node 22
+Time 4 Answer for request with ID 801: Respect with value  5 found in node 22
+Time 13 Answer for request with ID 802: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 803: Like a Rolling Stone with value  1 found in node 22
+Time 6 Answer for request with ID 804: Imagine with value  3 found in node 124
+Time 1 Answer for request with ID 805: Good Vibrations with value  6 found in node 22
+Time 4 Answer for request with ID 806: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 807: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 808: Respect with value  5 found in node 22
+Time 12 Answer for request with ID 809: Johnny B. Goode with value  7 found in node 124
+Time 12 Answer for request with ID 810: Good Vibrations with value  6 found in node 22
+Time 4 Answer for request with ID 811: What'd I Say with value  10 found in node 22
+Time 3 Answer for request with ID 812: Smells Like Teen Spirit with value  9 found in node 124
+Time 2 Answer for request with ID 813: Respect with value  5 found in node 22
+Time 4 Answer for request with ID 814: Good Vibrations with value  6 found in node 22
+Time 6 Answer for request with ID 815: Good Vibrations with value  6 found in node 22
+Time 13 Answer for request with ID 816: Johnny B. Goode with value  7 found in node 124
+Time 15 Answer for request with ID 817: What's Going On with value  4 found in node 124
+Time 7 Answer for request with ID 818: What's Going On with value  4 found in node 124
+Time 2 Answer for request with ID 819: Like a Rolling Stone with value  1 found in node 22
+Time 4 Answer for request with ID 820: Smells Like Teen Spirit with value  9 found in node 124
+Time 2 Answer for request with ID 821: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 822: Satisfaction with value  2 found in node 124
+Time 12 Answer for request with ID 823: Satisfaction with value  2 found in node 124
+Time 9 Answer for request with ID 824: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 825: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 826: What'd I Say with value  10 found in node 22
+Time 5 Answer for request with ID 827: Respect with value  5 found in node 22
+Time 4 Answer for request with ID 828: What'd I Say with value  10 found in node 22
+Time 4 Answer for request with ID 829: Smells Like Teen Spirit with value  9 found in node 124
+Time 12 Answer for request with ID 830: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 831: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 832: Like a Rolling Stone with value  1 found in node 22
+Time 6 Answer for request with ID 833: What's Going On with value  4 found in node 124
+Time 2 Answer for request with ID 834: What's Going On with value  4 found in node 124
+Time 9 Answer for request with ID 835: Satisfaction with value  2 found in node 124
+Time 13 Answer for request with ID 836: Hey Jude with value  8 found in node 22
+Time 7 Answer for request with ID 837: What'd I Say with value  10 found in node 22
+Time 3 Answer for request with ID 838: Smells Like Teen Spirit with value  9 found in node 124
+Time 2 Answer for request with ID 839: What'd I Say with value  10 found in node 22
+Time 2 Answer for request with ID 840: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 841: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 842: Like a Rolling Stone with value  1 found in node 22
+Time 6 Answer for request with ID 843: What'd I Say with value  10 found in node 22
+Time 12 Answer for request with ID 844: Hey Jude with value  8 found in node 22
+Time 5 Answer for request with ID 845: Smells Like Teen Spirit with value  9 found in node 124
+Time 2 Answer for request with ID 846: Smells Like Teen Spirit with value  9 found in node 124
+Time 4 Answer for request with ID 847: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 848: What'd I Say with value  10 found in node 22
+Time 4 Answer for request with ID 849: What's Going On with value  4 found in node 124
+Time 15 Answer for request with ID 850: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 851: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 852: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 853: Like a Rolling Stone with value  1 found in node 22
+Time 2 Answer for request with ID 854: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 855: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 856: Satisfaction with value  2 found in node 124
+Time 10 Answer for request with ID 857: Smells Like Teen Spirit with value  9 found in node 124
+Time 11 Answer for request with ID 858: Smells Like Teen Spirit with value  9 found in node 124
+Time 6 Answer for request with ID 859: Good Vibrations with value  6 found in node 22
+Time 3 Answer for request with ID 860: What'd I Say with value  10 found in node 22
+Time 8 Answer for request with ID 861: Smells Like Teen Spirit with value  9 found in node 124
+Time 5 Answer for request with ID 862: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 863: What's Going On with value  4 found in node 124
+Time 16 Answer for request with ID 864: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 865: Imagine with value  3 found in node 124
+Time 5 Answer for request with ID 866: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 867: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 868: Like a Rolling Stone with value  1 found in node 22
+Time 4 Answer for request with ID 869: What'd I Say with value  10 found in node 22
+Time 5 Answer for request with ID 870: What'd I Say with value  10 found in node 22
+Time 14 Answer for request with ID 871: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 872: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 873: Hey Jude with value  8 found in node 22
+Time 2 Answer for request with ID 874: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 875: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 876: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 877: Like a Rolling Stone with value  1 found in node 22
+Time 12 Answer for request with ID 878: Like a Rolling Stone with value  1 found in node 22
+Time 6 Answer for request with ID 879: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 880: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 881: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 882: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 883: Imagine with value  3 found in node 124
+Time 9 Answer for request with ID 884: Smells Like Teen Spirit with value  9 found in node 124
+Time 9 Answer for request with ID 885: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 886: Good Vibrations with value  6 found in node 22
+Time 4 Answer for request with ID 887: Imagine with value  3 found in node 124
+Time 5 Answer for request with ID 888: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 889: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 890: Satisfaction with value  2 found in node 124
+Time 5 Answer for request with ID 891: What's Going On with value  4 found in node 124
+Time 10 Answer for request with ID 892: Satisfaction with value  2 found in node 124
+Time 4 Answer for request with ID 893: Johnny B. Goode with value  7 found in node 124
+Time 13 Answer for request with ID 894: What's Going On with value  4 found in node 124
+Time 6 Answer for request with ID 895: Good Vibrations with value  6 found in node 22
+Time 13 Answer for request with ID 896: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 897: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 898: Hey Jude with value  8 found in node 22
+Time 7 Answer for request with ID 899: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 900: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 901: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 902: Johnny B. Goode with value  7 found in node 124
+Time 7 Answer for request with ID 903: Satisfaction with value  2 found in node 124
+Time 7 Answer for request with ID 904: Respect with value  5 found in node 22
+Time 4 Answer for request with ID 905: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 906: Imagine with value  3 found in node 124
+Time 8 Answer for request with ID 907: Smells Like Teen Spirit with value  9 found in node 124
+Time 5 Answer for request with ID 908: Satisfaction with value  2 found in node 124
+Time 10 Answer for request with ID 909: Like a Rolling Stone with value  1 found in node 22
+Time 2 Answer for request with ID 910: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 911: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 912: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 913: Good Vibrations with value  6 found in node 22
+Time 4 Answer for request with ID 914: Respect with value  5 found in node 22
+Time 12 Answer for request with ID 915: Respect with value  5 found in node 22
+Time 8 Answer for request with ID 916: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 917: Satisfaction with value  2 found in node 124
+Time 4 Answer for request with ID 918: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 919: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 920: Satisfaction with value  2 found in node 124
+Time 9 Answer for request with ID 921: Johnny B. Goode with value  7 found in node 124
+Time 15 Answer for request with ID 922: Respect with value  5 found in node 22
+Time 4 Answer for request with ID 923: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 924: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 925: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 926: Smells Like Teen Spirit with value  9 found in node 124
+Time 10 Answer for request with ID 927: Smells Like Teen Spirit with value  9 found in node 124
+Time 10 Answer for request with ID 928: Imagine with value  3 found in node 124
+Time 10 Answer for request with ID 929: Imagine with value  3 found in node 124
+Time 4 Answer for request with ID 930: Like a Rolling Stone with value  1 found in node 22
+Time 5 Answer for request with ID 931: Good Vibrations with value  6 found in node 22
+Time 2 Answer for request with ID 932: Good Vibrations with value  6 found in node 22
+Time 2 Answer for request with ID 933: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 934: Smells Like Teen Spirit with value  9 found in node 124
+Time 13 Answer for request with ID 935: Satisfaction with value  2 found in node 124
+Time 11 Answer for request with ID 936: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 937: What'd I Say with value  10 found in node 22
+Time 5 Answer for request with ID 938: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 939: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 940: Like a Rolling Stone with value  1 found in node 22
+Time 3 Answer for request with ID 941: Imagine with value  3 found in node 124
+Time 12 Answer for request with ID 942: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 943: Satisfaction with value  2 found in node 124
+Time 5 Answer for request with ID 944: Hey Jude with value  8 found in node 22
+Time 3 Answer for request with ID 945: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 946: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 947: Smells Like Teen Spirit with value  9 found in node 124
+Time 22 Answer for request with ID 948: What'd I Say with value  10 found in node 22
+Time 13 Answer for request with ID 949: Hey Jude with value  8 found in node 22
+Time 5 Answer for request with ID 950: Good Vibrations with value  6 found in node 22
+Time 9 Answer for request with ID 951: Johnny B. Goode with value  7 found in node 124
+Time 6 Answer for request with ID 952: Hey Jude with value  8 found in node 22
+Time 21 Answer for request with ID 953: What'd I Say with value  10 found in node 22
+Time 3 Answer for request with ID 954: Satisfaction with value  2 found in node 124
+Time 3 Answer for request with ID 955: Imagine with value  3 found in node 124
+Time 3 Answer for request with ID 956: Smells Like Teen Spirit with value  9 found in node 124
+Time 3 Answer for request with ID 957: Imagine with value  3 found in node 124
+Time 4 Answer for request with ID 958: Johnny B. Goode with value  7 found in node 124
+Time 2 Answer for request with ID 959: Hey Jude with value  8 found in node 22
+Time 19 Answer for request with ID 960: Johnny B. Goode with value  7 found in node 124
+Time 6 Answer for request with ID 961: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 962: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 963: Johnny B. Goode with value  7 found in node 124
+Time 5 Answer for request with ID 964: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 965: Smells Like Teen Spirit with value  9 found in node 124
+Time 20 Answer for request with ID 966: Imagine with value  3 found in node 124
+Time 7 Answer for request with ID 967: Hey Jude with value  8 found in node 22
+Time 4 Answer for request with ID 968: What'd I Say with value  10 found in node 22
+Time 15 Answer for request with ID 969: Like a Rolling Stone with value  1 found in node 22
+Time 4 Answer for request with ID 970: Like a Rolling Stone with value  1 found in node 22
+Time 4 Answer for request with ID 971: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 972: Johnny B. Goode with value  7 found in node 124
+Time 3 Answer for request with ID 973: Good Vibrations with value  6 found in node 22
+Time 17 Answer for request with ID 974: Respect with value  5 found in node 22
+Time 4 Answer for request with ID 975: What'd I Say with value  10 found in node 22
+Time 2 Answer for request with ID 976: Imagine with value  3 found in node 124
+Time 4 Answer for request with ID 977: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 978: What's Going On with value  4 found in node 124
+Time 4 Answer for request with ID 979: What's Going On with value  4 found in node 124
+Time 6 Answer for request with ID 980: Hey Jude with value  8 found in node 22
+Time 5 Answer for request with ID 981: Respect with value  5 found in node 22
+Time 7 Answer for request with ID 982: Johnny B. Goode with value  7 found in node 124
+Time 5 Answer for request with ID 983: What'd I Say with value  10 found in node 22
+Time 2 Answer for request with ID 984: Respect with value  5 found in node 22
+Time 2 Answer for request with ID 985: Imagine with value  3 found in node 124
+Time 6 Answer for request with ID 986: Imagine with value  3 found in node 124
+Time 16 Answer for request with ID 987: Good Vibrations with value  6 found in node 22
+Time 8 Answer for request with ID 988: What's Going On with value  4 found in node 124
+Time 3 Answer for request with ID 989: Smells Like Teen Spirit with value  9 found in node 124
+Time 2 Answer for request with ID 990: Smells Like Teen Spirit with value  9 found in node 124
+Time 2 Answer for request with ID 991: Johnny B. Goode with value  7 found in node 124
+Time 4 Answer for request with ID 992: Respect with value  5 found in node 22
+Time 3 Answer for request with ID 993: Imagine with value  3 found in node 124
+Time 4 Answer for request with ID 994: Johnny B. Goode with value  7 found in node 124
+Time 10 Answer for request with ID 995: Johnny B. Goode with value  7 found in node 124
+Time 6 Answer for request with ID 996: Smells Like Teen Spirit with value  9 found in node 124
+Time 10 Answer for request with ID 997: Johnny B. Goode with value  7 found in node 124
+Time 5 Answer for request with ID 998: Johnny B. Goode with value  7 found in node 124
+Time 8 Answer for request with ID 999: Respect with value  5 found in node 22
+Time 4 Answer for request with ID 1000: Hey Jude with value  8 found in node 22

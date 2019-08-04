@@ -1,0 +1,500 @@
+Time 15 Answer for request with ID 1 : Like a Rolling Stone was added!
+Time 20 Answer for request with ID 2 : Satisfaction was added!
+Time 5 Answer for request with ID 3 : Imagine was added!
+Time 12 Answer for request with ID 4 : What's Going On was added!
+Time 14 Answer for request with ID 5 : Respect was added!
+Time 31 Answer for request with ID 6 : Good Vibrations was added!
+Time 9 Answer for request with ID 7 : Johnny B. Goode was added!
+Time 28 Answer for request with ID 8 : Hey Jude was added!
+Time 36 Answer for request with ID 9 : Smells Like Teen Spirit was added!
+Time 14 Answer for request with ID 10 : What'd I Say was added!
+Time 27 Answer for request with ID 11 : My Generation was added!
+Time 36 Answer for request with ID 12 : A Change Is Gonna Come was added!
+Time 20 Answer for request with ID 13 : Yesterday was added!
+Time 35 Answer for request with ID 14 : Blowin' in the Wind was added!
+Time 25 Answer for request with ID 15 : London Calling was added!
+Time 9 Answer for request with ID 16 : I Want to Hold Your Hand was added!
+Time 18 Answer for request with ID 17 : Purple Haze was added!
+Time 20 Answer for request with ID 18 : Maybellene was added!
+Time 9 Answer for request with ID 19 : Hound Dog was added!
+Time 23 Answer for request with ID 20 : Let It Be was added!
+Time 6 Answer for request with ID 21 : Born to Run was added!
+Time 23 Answer for request with ID 22 : Be My Baby was added!
+Time 18 Answer for request with ID 23 : In My Life was added!
+Time 21 Answer for request with ID 24 : People Get Ready was added!
+Time 11 Answer for request with ID 25 : God Only Knows was added!
+Time 17 Answer for request with ID 26 : A Day in the Life was added!
+Time 15 Answer for request with ID 27 : Layla was added!
+Time 31 Answer for request with ID 28 : (Sittin on) the Dock of the Bay was added!
+Time 17 Answer for request with ID 29 : Help! was added!
+Time 26 Answer for request with ID 30 : I Walk the Line was added!
+Time 10 Answer for request with ID 31 : Stairway To Heaven was added!
+Time 16 Answer for request with ID 32 : Sympathy for the Devil was added!
+Time 18 Answer for request with ID 33 : River Deep - Mountain High was added!
+Time 7 Answer for request with ID 34 : You've Lost That Lovin' Feelin' was added!
+Time 16 Answer for request with ID 35 : Light My Fire was added!
+Time 13 Answer for request with ID 36 : One was added!
+Time 25 Answer for request with ID 37 : No Woman was added!
+Time 27 Answer for request with ID 38 : Gimme Shelter was added!
+Time 23 Answer for request with ID 39 : That'll Be the Day was added!
+Time 20 Answer for request with ID 40 : Dancing in the Street was added!
+Time 21 Answer for request with ID 41 : The Weight was added!
+Time 19 Answer for request with ID 42 : Waterloo Sunset was added!
+Time 3 Answer for request with ID 43 : Tutti-Frutti was added!
+Time 9 Answer for request with ID 44 : Georgia on My Mind was added!
+Time 25 Answer for request with ID 45 : Heartbreak Hotel was added!
+Time 14 Answer for request with ID 46 : Heroes was added!
+Time 5 Answer for request with ID 47 : Bridge Over Troubled Water was added!
+Time 11 Answer for request with ID 48 : All Along the Watchtower was added!
+Time 17 Answer for request with ID 49 : Hotel California was added!
+Time 32 Answer for request with ID 50 : The Tracks of My Tears was added!
+Time 16 Answer for request with ID 51 : The Message was added!
+Time 11 Answer for request with ID 52 : When Doves Cry was added!
+Time 28 Answer for request with ID 53 : Anarchy in the U.K. was added!
+Time 25 Answer for request with ID 54 : When a Man Loves a Woman was added!
+Time 52 Answer for request with ID 55 : Louie Louie was added!
+Time 7 Answer for request with ID 56 : Long Tall Sally was added!
+Time 18 Answer for request with ID 57 : Whiter Shade of Pale was added!
+Time 16 Answer for request with ID 58 : Billie Jean was added!
+Time 14 Answer for request with ID 59 : The Times They Are A-Changin' was added!
+Time 28 Answer for request with ID 60 : Let's Stay Together was added!
+Time 12 Answer for request with ID 61 : Whole Lotta Shakin' Goin On was added!
+Time 28 Answer for request with ID 62 : Bo Diddley was added!
+Time 9 Answer for request with ID 63 : For What It's Worth was added!
+Time 24 Answer for request with ID 64 : She Loves You was added!
+Time 19 Answer for request with ID 65 : Sunshine of Your Love was added!
+Time 28 Answer for request with ID 66 : Redemption Song was added!
+Time 24 Answer for request with ID 67 : Jailhouse Rock was added!
+Time 22 Answer for request with ID 68 : Tangled Up in Blue was added!
+Time 13 Answer for request with ID 69 : Crying was added!
+Time 20 Answer for request with ID 70 : Walk On By was added!
+Time 5 Answer for request with ID 71 : California Girls was added!
+Time 6 Answer for request with ID 72 : Papa's Got a Brand New Bag was added!
+Time 21 Answer for request with ID 73 : Summertime Blues was added!
+Time 20 Answer for request with ID 74 : Superstition was added!
+Time 16 Answer for request with ID 75 : Whole Lotta Love was added!
+Time 24 Answer for request with ID 76 : Strawberry Fields Forever was added!
+Time 12 Answer for request with ID 77 : Mystery Train was added!
+Time 29 Answer for request with ID 78 : I Got You (I Feel Good) was added!
+Time 20 Answer for request with ID 79 : Mr. Tambourine Man was added!
+Time 11 Answer for request with ID 80 : I Heard It Through the Grapevine was added!
+Time 13 Answer for request with ID 81 : Blueberry Hill was added!
+Time 15 Answer for request with ID 82 : You Really Got Me was added!
+Time 16 Answer for request with ID 83 : Norwegian Wood (This Bird Has Flown) was added!
+Time 19 Answer for request with ID 84 : Every Breath You Take was added!
+Time 23 Answer for request with ID 85 : Crazy was added!
+Time 11 Answer for request with ID 86 : Thunder Road was added!
+Time 14 Answer for request with ID 87 : Ring of Fire was added!
+Time 6 Answer for request with ID 88 : My Girl was added!
+Time 8 Answer for request with ID 89 : California Dreamin' was added!
+Time 20 Answer for request with ID 90 : In the Still of the Nite was added!
+Time 12 Answer for request with ID 91 : Suspicious Minds was added!
+Time 16 Answer for request with ID 92 : Blitzkrieg Bop was added!
+Time 25 Answer for request with ID 93 : I Still Haven't Found What I'm Looking For was added!
+Time 19 Answer for request with ID 94 : Good Golly was added!
+Time 7 Answer for request with ID 95 : Blue Suede Shoes was added!
+Time 15 Answer for request with ID 96 : Great Balls of Fire was added!
+Time 29 Answer for request with ID 97 : Roll Over Beethoven was added!
+Time 12 Answer for request with ID 98 : Love and Happiness was added!
+Time 13 Answer for request with ID 99 : Fortunate Son was added!
+Time 18 Answer for request with ID 100 : You Can't Always Get What You Want was added!
+Time 4 Answer for request with ID 101 : Voodoo Child (Slight Return) was added!
+Time 21 Answer for request with ID 102 : Be-Bop-A-Lula was added!
+Time 10 Answer for request with ID 103 : Hot Stuff was added!
+Time 13 Answer for request with ID 104 : Living for the City was added!
+Time 18 Answer for request with ID 105 : The Boxer was added!
+Time 9 Answer for request with ID 106 : Mr. Tambourine Man was updated!
+Time 22 Answer for request with ID 107 : Not Fade Away was added!
+Time 7 Answer for request with ID 108 : Little Red Corvette was added!
+Time 8 Answer for request with ID 109 : Brown Eyed Girl was added!
+Time 15 Answer for request with ID 110 : I've Been Loving You Too Long (to Stop Now) was added!
+Time 23 Answer for request with ID 111 : I'm So Lonesome I Could Cry was added!
+Time 25 Answer for request with ID 112 : That's All Right was added!
+Time 16 Answer for request with ID 113 : Up on the Roof was added!
+Time 16 Answer for request with ID 114 : Da Doo Ron Ron ) was added!
+Time 24 Answer for request with ID 115 : You Send Me was added!
+Time 3 Answer for request with ID 116 : Honky Tonk Women was added!
+Time 25 Answer for request with ID 117 : Take Me to the River  was added!
+Time 14 Answer for request with ID 118 : Shout (Parts 1 and 2)] was added!
+Time 18 Answer for request with ID 119 : Go Your Own Way was added!
+Time 14 Answer for request with ID 120 : I Want You Back was added!
+Time 5 Answer for request with ID 121 : Stand By Me was added!
+Time 14 Answer for request with ID 122 : House of the Rising Sun was added!
+Time 26 Answer for request with ID 123 : Will You Love Me Tomorrow was added!
+Time 8 Answer for request with ID 124 : Shake was added!
+Time 16 Answer for request with ID 125 : Changes was added!
+Time 16 Answer for request with ID 126 : Rock & Roll Music was added!
+Time 8 Answer for request with ID 127 : Born to Be Wild was added!
+Time 5 Answer for request with ID 128 : Maggie May was added!
+Time 21 Answer for request with ID 129 : With or Without You was added!
+Time 14 Answer for request with ID 130 : Who Do You Love was added!
+Time 12 Answer for request with ID 131 : Won't Get Fooled Again was added!
+Time 19 Answer for request with ID 132 : In the Midnight Hour was added!
+Time 10 Answer for request with ID 133 : While My Guitar Gently Weeps was added!
+Time 9 Answer for request with ID 135 : Eleanor Rigby was added!
+Time 23 Answer for request with ID 134 : Your Song was added!
+Time 40 Answer for request with ID 136 : Family Affair was added!
+Time 4 Answer for request with ID 137 : I Saw Her Standing There was added!
+Time 30 Answer for request with ID 138 : Kashmir was added!
+Time 8 Answer for request with ID 139 : All I Have to Do Is Dream was added!
+Time 11 Answer for request with ID 140 : Please was added!
+Time 6 Answer for request with ID 141 : Purple Rain was added!
+Time 3 Answer for request with ID 142 : I Wanna Be Sedated was added!
+Time 12 Answer for request with ID 143 : Everyday People was added!
+Time 24 Answer for request with ID 144 : Rock Lobster was added!
+Time 12 Answer for request with ID 145 : Lust for Life was added!
+Time 13 Answer for request with ID 146 : Me and Bobby McGee was added!
+Time 19 Answer for request with ID 147 : Cathy's Clown was added!
+Time 6 Answer for request with ID 148 : Eight Miles High was added!
+Time 28 Answer for request with ID 149 : Earth Angel was added!
+Time 17 Answer for request with ID 150 : Foxey Lady was added!
+Time 21 Answer for request with ID 151 : A Hard Day's Night was added!
+Time 17 Answer for request with ID 152 : Rave On was added!
+Time 9 Answer for request with ID 153 : Proud Mary was added!
+Time 21 Answer for request with ID 154 : The Sounds of Silence was added!
+Time 10 Answer for request with ID 155 : I Only Have Eyes for You was added!
+Time 10 Answer for request with ID 156 : (We're Gonna) Rock Around the Clock was added!
+Time 9 Answer for request with ID 157 : I'm Waiting for the Man was added!
+Time 23 Answer for request with ID 158 : Bring the Noise was added!
+Time 8 Answer for request with ID 159 : I Can't Stop Loving You was added!
+Time 13 Answer for request with ID 160 : Nothing Compares 2 U was added!
+Time 23 Answer for request with ID 161 : Bohemian Rhapsody was added!
+Time 16 Answer for request with ID 162 : Folsom Prison Blues was added!
+Time 9 Answer for request with ID 163 : Fast Car was added!
+Time 10 Answer for request with ID 164 : Lose Yourself  was added!
+Time 12 Answer for request with ID 165 : Let's Get It On was added!
+Time 4 Answer for request with ID 166 : Papa Was a Rollin' Stone was added!
+Time 7 Answer for request with ID 167 : Losing My Religion was added!
+Time 14 Answer for request with ID 168 : Both Sides Now was added!
+Time 7 Answer for request with ID 169 : Dancing Queen was added!
+Time 11 Answer for request with ID 170 : Dream On was added!
+Time 11 Answer for request with ID 171 : God Save the Queen was added!
+Time 11 Answer for request with ID 172 : Paint It was added!
+Time 4 Answer for request with ID 173 : I Fought the Law was added!
+Time 22 Answer for request with ID 174 : Don't Worry Baby was added!
+Time 4 Answer for request with ID 175 : Free Fallin' was added!
+Time 29 Answer for request with ID 176 : September Gurls was added!
+Time 9 Answer for request with ID 177 : Love Will Tear Us Apart was added!
+Time 13 Answer for request with ID 178 : Hey Ya! was added!
+Time 10 Answer for request with ID 179 : Green Onions was added!
+Time 23 Answer for request with ID 180 : Save the Last Dance for Me was added!
+Time 21 Answer for request with ID 181 : The Thrill Is Gone was added!
+Time 18 Answer for request with ID 182 : Please Please Me was added!
+Time 22 Answer for request with ID 183 : Desolation Row was added!
+Time 19 Answer for request with ID 184 : I Never Loved a Man (The Way I Love You) was added!
+Time 18 Answer for request with ID 185 : Back in Black was added!
+Time 25 Answer for request with ID 186 : Who'll Stop the Rain was added!
+Time 11 Answer for request with ID 187 : Stayin' Alive was added!
+Time 16 Answer for request with ID 188 : Knocking on Heaven's Door was added!
+Time 8 Answer for request with ID 189 : Free Bird was added!
+Time 2 Answer for request with ID 190 : Wichita Lineman was added!
+Time 20 Answer for request with ID 191 : There Goes My Baby was added!
+Time 17 Answer for request with ID 192 : Peggy Sue was added!
+Time 8 Answer for request with ID 193 : Maybe was added!
+Time 19 Answer for request with ID 194 : Sweet Child O' Mine was added!
+Time 5 Answer for request with ID 195 : Don't Be Cruel was added!
+Time 7 Answer for request with ID 196 : Hey Joe was added!
+Time 40 Answer for request with ID 197 : Flash Light was added!
+Time 19 Answer for request with ID 198 : Loser was added!
+Time 10 Answer for request with ID 199 : Bizarre Love Triangle was added!
+Time 3 Answer for request with ID 200 : Come Together was added!
+Time 12 Answer for request with ID 201 : Positively 4th Street was added!
+Time 23 Answer for request with ID 202 : Try a Little Tenderness was added!
+Time 6 Answer for request with ID 203 : Lean On Me was added!
+Time 3 Answer for request with ID 204 : Reach Out was added!
+Time 19 Answer for request with ID 205 : Bye Bye Love was added!
+Time 23 Answer for request with ID 206 : Gloria was added!
+Time 7 Answer for request with ID 207 : In My Room was added!
+Time 11 Answer for request with ID 208 : 96 Tears was added!
+Time 10 Answer for request with ID 209 : Caroline was added!
+Time 11 Answer for request with ID 210 : 1999 was added!
+Time 17 Answer for request with ID 211 : Your Cheatin' Heart was added!
+Time 7 Answer for request with ID 212 : Rockin' in the Free World was added!
+Time 8 Answer for request with ID 213 : Sh-Boom was added!
+Time 24 Answer for request with ID 214 : Do You Believe in Magic was added!
+Time 11 Answer for request with ID 215 : Jolene was added!
+Time 22 Answer for request with ID 216 : Boom Boom was added!
+Time 14 Answer for request with ID 217 : Spoonful was added!
+Time 14 Answer for request with ID 218 : Walk Away Renee was added!
+Time 11 Answer for request with ID 219 : Walk on the Wild Side was added!
+Time 4 Answer for request with ID 220 : Oh was added!
+Time 18 Answer for request with ID 221 : Dance to the Music was added!
+Time 20 Answer for request with ID 222 : Good Times was added!
+Time 21 Answer for request with ID 223 : Hoochie Coochie Man was added!
+Time 13 Answer for request with ID 224 : Moondance was added!
+Time 17 Answer for request with ID 225 : Fire and Rain was added!
+Time 18 Answer for request with ID 226 : Should I Stay or Should I Go was added!
+Time 7 Answer for request with ID 227 : Mannish Boy was added!
+Time 7 Answer for request with ID 228 : Just Like a Woman was added!
+Time 23 Answer for request with ID 229 : Sexual Healing was added!
+Time 15 Answer for request with ID 230 : Only the Lonely was added!
+Time 10 Answer for request with ID 231 : We Gotta Get Out of This Place was added!
+Time 10 Answer for request with ID 232 : I'll Feel a Whole Lot Better was added!
+Time 7 Answer for request with ID 233 : I Got a Woman was added!
+Time 14 Answer for request with ID 234 : Everyday was added!
+Time 26 Answer for request with ID 235 : Planet Rock was added!
+Time 9 Answer for request with ID 236 : I Fall to Pieces was added!
+Time 25 Answer for request with ID 237 : The Wanderer was added!
+Time 7 Answer for request with ID 238 : Son of a Preacher Man was added!
+Time 20 Answer for request with ID 239 : Stand! was added!
+Time 12 Answer for request with ID 240 : Rocket Man was added!
+Time 3 Answer for request with ID 241 : Love Shack was added!
+Time 19 Answer for request with ID 242 : Gimme Some Lovin' was added!
+Time 11 Answer for request with ID 243 : The Night They Drove Old Dixie Down was added!
+Time 6 Answer for request with ID 244 : (Your Love Keeps Lifting Me) Higher and Higher was added!
+Time 12 Answer for request with ID 245 : Hot Fun in the Summertime was added!
+Time 8 Answer for request with ID 246 : Rappers Delight was added!
+Time 12 Answer for request with ID 247 : Chain of Fools was added!
+Time 24 Answer for request with ID 248 : Paranoid was added!
+Time 5 Answer for request with ID 249 : Mack the Knife was added!
+Time 11 Answer for request with ID 250 : Money Honey was added!
+Time 13 Answer for request with ID 251 : All the Young Dudes was added!
+Time 3 Answer for request with ID 252 : Highway to Hell was added!
+Time 10 Answer for request with ID 253 : Heart of Glass was added!
+Time 3 Answer for request with ID 254 : Paranoid Android was added!
+Time 3 Answer for request with ID 255 : Wild Thing was added!
+Time 20 Answer for request with ID 256 : I Can See for Miles was added!
+Time 14 Answer for request with ID 257 : Hallelujah was added!
+Time 8 Answer for request with ID 258 : Oh was updated!
+Time 4 Answer for request with ID 259 : Higher Ground was added!
+Time 13 Answer for request with ID 260 : Ooo Baby Baby was added!
+Time 20 Answer for request with ID 261 : He's a Rebel was added!
+Time 16 Answer for request with ID 262 : Sail Away was added!
+Time 17 Answer for request with ID 263 : Tighten Up was added!
+Time 14 Answer for request with ID 264 : Walking in the Rain was added!
+Time 11 Answer for request with ID 265 : Personality Crisis was added!
+Time 21 Answer for request with ID 266 : Sunday Bloody Sunday was added!
+Time 9 Answer for request with ID 267 : Roadrunner was added!
+Time 17 Answer for request with ID 268 : He Stopped Loving Her Today was added!
+Time 17 Answer for request with ID 269 : Sloop John B was added!
+Time 10 Answer for request with ID 270 : Sweet Little Sixteen was added!
+Time 8 Answer for request with ID 271 : Something was added!
+Time 9 Answer for request with ID 272 : Somebody to Love was added!
+Time 25 Answer for request with ID 273 : Born in the U.S.A. was added!
+Time 20 Answer for request with ID 274 : I'll Take You There was added!
+Time 15 Answer for request with ID 275 : Ziggy Stardust was added!
+Time 2 Answer for request with ID 276 : Pictures of You was added!
+Time 11 Answer for request with ID 277 : Chapel of Love was added!
+Time 44 Answer for request with ID 278 : Ain't No Sunshine was added!
+Time 11 Answer for request with ID 279 : You Are the Sunshine of My Life was added!
+Time 23 Answer for request with ID 280 : Help Me was added!
+Time 10 Answer for request with ID 281 : Call Me was added!
+Time 13 Answer for request with ID 282 : (What's So Funny 'Bout) Peace Love and Understanding? was added!
+Time 19 Answer for request with ID 283 : Attractions was added!
+Time 24 Answer for request with ID 284 : Smoke Stack Lightning was added!
+Time 16 Answer for request with ID 285 : Summer Babe was added!
+Time 19 Answer for request with ID 286 : Walk This Way was added!
+Time 11 Answer for request with ID 287 : Money (That's What I Want) was added!
+Time 19 Answer for request with ID 288 : Can't Buy Me Love was added!
+Time 13 Answer for request with ID 289 : Stan was added!
+Time 15 Answer for request with ID 290 : She's Not There was added!
+Time 3 Answer for request with ID 291 : Train in Vain was added!
+Time 4 Answer for request with ID 292 : Tired of Being Alone was added!
+Time 7 Answer for request with ID 293 : Black Dog was added!
+Time 20 Answer for request with ID 294 : Street Fighting Man was added!
+Time 5 Answer for request with ID 295 : Get Up was added!
+Time 16 Answer for request with ID 296 : Heart of Gold was added!
+Time 5 Answer for request with ID 297 : One Way or Another was added!
+Time 11 Answer for request with ID 298 : Sign 'O' the Times was added!
+Time 12 Answer for request with ID 299 : Like a Prayer was added!
+Time 6 Answer for request with ID 300 : Do Ya Think I'm Sexy? was added!
+Time 35 Answer for request with ID 301 : Blue Eyes Crying In the Rain was added!
+Time 15 Answer for request with ID 302 : Ruby Tuesday was added!
+Time 17 Answer for request with ID 303 : With a Little Help From My Friends was added!
+Time 14 Answer for request with ID 304 : Say It Loud -- I'm Black and Proud was added!
+Time 26 Answer for request with ID 305 : That's Entertainment was added!
+Time 36 Answer for request with ID 306 : Why Do Fools Fall In Love was added!
+Time 4 Answer for request with ID 307 : Lonely Teardrops was added!
+Time 4 Answer for request with ID 308 : What's Love Got To Do With It was added!
+Time 9 Answer for request with ID 309 : Iron Man was added!
+Time 14 Answer for request with ID 310 : Wake Up Little Susie was added!
+Time 28 Answer for request with ID 311 : In Dreams was added!
+Time 21 Answer for request with ID 312 : I Put a Spell on You was added!
+Time 12 Answer for request with ID 313 : Comfortably Numb was added!
+Time 7 Answer for request with ID 314 : Don't Let Me Be Misunderstood was added!
+Time 8 Answer for request with ID 315 : Wish You Were Here was added!
+Time 5 Answer for request with ID 316 : Many Rivers to Cross was added!
+Time 13 Answer for request with ID 317 : Alison was added!
+Time 7 Answer for request with ID 318 : School's Out was added!
+Time 29 Answer for request with ID 319 : Heartbreaker was added!
+Time 25 Answer for request with ID 320 : Cortez the Killer was added!
+Time 5 Answer for request with ID 321 : Fight the Power was added!
+Time 17 Answer for request with ID 322 : Dancing Barefoot was added!
+Time 2 Answer for request with ID 323 : Baby Love was added!
+Time 6 Answer for request with ID 324 : Good Lovin' was added!
+Time 13 Answer for request with ID 325 : Get Up (I Feel Like Being a) Sex Machine was added!
+Time 11 Answer for request with ID 326 : For Your Precious Love was added!
+Time 5 Answer for request with ID 327 : The End was added!
+Time 8 Answer for request with ID 328 : That's the Way of the World was added!
+Time 13 Answer for request with ID 329 : We Will Rock You was added!
+Time 16 Answer for request with ID 330 : I Can't Make You Love Me was added!
+Time 8 Answer for request with ID 331 : Subterranean Homesick Blues was added!
+Time 8 Answer for request with ID 332 : Spirit in the Sky was added!
+Time 14 Answer for request with ID 333 : Wild Horses was added!
+Time 12 Answer for request with ID 334 : Sweet Jane was added!
+Time 6 Answer for request with ID 335 : Walk This Way was updated!
+Time 3 Answer for request with ID 336 : Beat It was added!
+Time 12 Answer for request with ID 337 : Maybe I'm Amazed was added!
+Time 14 Answer for request with ID 338 : You Keep Me Hanging On was added!
+Time 8 Answer for request with ID 339 : Baba O'Riley was added!
+Time 14 Answer for request with ID 340 : The Harder They Come was added!
+Time 6 Answer for request with ID 341 : Runaround Sue was added!
+Time 23 Answer for request with ID 342 : Jim Dandy was added!
+Time 19 Answer for request with ID 343 : Piece of My Heart was added!
+Time 6 Answer for request with ID 344 : La Bamba was added!
+Time 4 Answer for request with ID 345 : California Love was added!
+Time 30 Answer for request with ID 346 : Candle in the Wind was added!
+Time 12 Answer for request with ID 347 : That Lady (Part 1 and 2) was added!
+Time 4 Answer for request with ID 348 : Spanish Harlem was added!
+Time 9 Answer for request with ID 349 : The Locomotion was added!
+Time 15 Answer for request with ID 350 : The Great Pretender was added!
+Time 17 Answer for request with ID 351 : All Shook Up was added!
+Time 11 Answer for request with ID 352 : Tears in Heaven was added!
+Time 8 Answer for request with ID 353 : Watching the Detectives was added!
+Time 5 Answer for request with ID 354 : Bad Moon Rising was added!
+Time 40 Answer for request with ID 355 : Sweet Dreams (Are Made of This) was added!
+Time 16 Answer for request with ID 356 : Little Wing was added!
+Time 12 Answer for request with ID 357 : Nowhere to Run was added!
+Time 6 Answer for request with ID 358 : Got My Mojo Working was added!
+Time 17 Answer for request with ID 359 : Killing Me Softly With His Song was added!
+Time 28 Answer for request with ID 360 : Complete Control was added!
+Time 10 Answer for request with ID 361 : All You Need Is Love was added!
+Time 13 Answer for request with ID 362 : The Letter was added!
+Time 8 Answer for request with ID 363 : Highway 61 Revisited was added!
+Time 19 Answer for request with ID 364 : Unchained Melody was added!
+Time 17 Answer for request with ID 365 : How Deep Is Your Love was added!
+Time 15 Answer for request with ID 366 : White Room was added!
+Time 15 Answer for request with ID 367 : Personal Jesus was added!
+Time 6 Answer for request with ID 368 : I'm A Man was added!
+Time 26 Answer for request with ID 369 : The Wind Cries Mary was added!
+Time 11 Answer for request with ID 370 : I Can't Explain was added!
+Time 19 Answer for request with ID 371 : Marquee Moon was added!
+Time 7 Answer for request with ID 372 : Wonderful World was added!
+Time 27 Answer for request with ID 373 : Brown Eyed Handsome Man was added!
+Time 12 Answer for request with ID 374 : Another Brick in the Wall Part 2 was added!
+Time 6 Answer for request with ID 375 : Fake Plastic Trees was added!
+Time 3 Answer for request with ID 376 : Hit the Road Jack was added!
+Time 11 Answer for request with ID 377 : Pride (In The Name of Love) was added!
+Time 9 Answer for request with ID 378 : Radio Free Europe was added!
+Time 5 Answer for request with ID 379 : Goodbye Yellow Brick Road was added!
+Time 4 Answer for request with ID 380 : Tell It Like It Is was added!
+Time 20 Answer for request with ID 381 : Bitter Sweet Symphony was added!
+Time 11 Answer for request with ID 382 : Whipping Post was added!
+Time 15 Answer for request with ID 383 : Ticket to Ride was added!
+Time 4 Answer for request with ID 384 : Ohio was added!
+Time 17 Answer for request with ID 385 : I Know You Got Soul was added!
+Time 4 Answer for request with ID 386 : Tiny Dancer was added!
+Time 19 Answer for request with ID 387 : Roxanne was added!
+Time 15 Answer for request with ID 388 : Just My Imagination was added!
+Time 10 Answer for request with ID 389 : Baby I Need Your Loving was added!
+Time 29 Answer for request with ID 390 : Band of Gold was added!
+Time 18 Answer for request with ID 391 : O-o-h Child was added!
+Time 10 Answer for request with ID 392 : Summer in the City was added!
+Time 8 Answer for request with ID 393 : Can't Help Falling in Love was added!
+Time 6 Answer for request with ID 394 : Remember (Walkin' in the Sand) was added!
+Time 20 Answer for request with ID 395 : Thirteen was added!
+Time 8 Answer for request with ID 396 : (Don't Fear) the Reaper was added!
+Time 13 Answer for request with ID 397 : Sweet Home Alabama was added!
+Time 4 Answer for request with ID 398 : Enter Sandman was added!
+Time 19 Answer for request with ID 399 : Kicks was added!
+Time 15 Answer for request with ID 400 : Tonight's the Night was added!
+Time 6 Answer for request with ID 401 : Thank You (Falettinme Be Mice Elf Agin) was added!
+Time 3 Answer for request with ID 402 : C'mon Everybody was added!
+Time 17 Answer for request with ID 403 : Visions of Johanna was added!
+Time 6 Answer for request with ID 404 : We've Only Just Begun was added!
+Time 27 Answer for request with ID 405 : I Believe I Can Fly was added!
+Time 7 Answer for request with ID 406 : In Bloom was added!
+Time 12 Answer for request with ID 407 : Sweet Emotion was added!
+Time 5 Answer for request with ID 408 : Crossroads was added!
+Time 14 Answer for request with ID 409 : Monkey Gone to Heaven was added!
+Time 8 Answer for request with ID 410 : I Feel Love was added!
+Time 4 Answer for request with ID 411 : Ode to Billie Joe was added!
+Time 3 Answer for request with ID 412 : The Girl Can't Help It was added!
+Time 3 Answer for request with ID 413 : Young Blood was added!
+Time 30 Answer for request with ID 414 : I Can't Help Myself was added!
+Time 25 Answer for request with ID 415 : The Boys of Summer was added!
+Time 6 Answer for request with ID 416 : Fuck tha Police was added!
+Time 5 Answer for request with ID 417 : Suite: Judy Blue Eyes was added!
+Time 18 Answer for request with ID 418 : Nuthin' But a 'G' Thang was added!
+Time 19 Answer for request with ID 419 : It's Your Thing was added!
+Time 11 Answer for request with ID 420 : Piano Man was added!
+Time 12 Answer for request with ID 421 : Lola was added!
+Time 11 Answer for request with ID 422 : Blue Suede Shoes was updated!
+Time 15 Answer for request with ID 423 : Tumbling Dice was added!
+Time 13 Answer for request with ID 424 : William was added!
+Time 13 Answer for request with ID 425 : Smoke on the Water was added!
+Time 31 Answer for request with ID 426 : New Year's Day was added!
+Time 10 Answer for request with ID  427 : Devil With a Blue Dress On was added!
+Time 10 Answer for request with ID 428 : Wheels was added!
+Time 7 Answer for request with ID 429 : Everybody Needs Somebody to Love was added!
+Time 18 Answer for request with ID 430 : White Man in Hammersmith Palais was added!
+Time 8 Answer for request with ID 431 : Ain't It a Shame was added!
+Time 9 Answer for request with ID 432 : Midnight Train to Georgia was added!
+Time 17 Answer for request with ID 433 : Ramble On was added!
+Time 8 Answer for request with ID 434 : Mustang Sally was added!
+Time 13 Answer for request with ID 435 : Beast of Burden was added!
+Time 22 Answer for request with ID 436 : Alone Again Or was added!
+Time 8 Answer for request with ID 437 : Love Me Tender was added!
+Time 4 Answer for request with ID 438 : I Wanna Be Your Dog was added!
+Time 12 Answer for request with ID 439 : Pink Houses was added!
+Time 6 Answer for request with ID 440 : Push It was added!
+Time 12 Answer for request with ID 441 : Come Go With Me was added!
+Time 14 Answer for request with ID 442 : Keep a Knockin' was added!
+Time 20 Answer for request with ID 443 : I Shot the Sheriff was added!
+Time 13 Answer for request with ID 444 : I Got You Babe was added!
+Time 9 Answer for request with ID 445 : Come As You Are was added!
+Time 7 Answer for request with ID 446 : Pressure Drop was added!
+Time 17 Answer for request with ID 447 : Leader of the Pack was added!
+Time 9 Answer for request with ID 448 : Heroin was added!
+Time 2 Answer for request with ID 449 : Penny Lane was added!
+Time 5 Answer for request with ID 450 : By the Time I Get to Phoenix was added!
+Time 14 Answer for request with ID 451 : The Twist was added!
+Time 11 Answer for request with ID 452 : Cupid was added!
+Time 13 Answer for request with ID 453 : Paradise City was added!
+Time 8 Answer for request with ID 454 : My Sweet Lord was added!
+Time 10 Answer for request with ID 455 : All Apologies was added!
+Time 30 Answer for request with ID 456 : Stagger Lee was added!
+Time 7 Answer for request with ID 457 : Sheena Is a Punk Rocker was added!
+Time 9 Answer for request with ID 458 : Soul Man was added!
+Time 4 Answer for request with ID 459 : Rollin' Stone was added!
+Time 8 Answer for request with ID 460 : One Fine Day was added!
+Time 13 Answer for request with ID 461 : Kiss was added!
+Time 7 Answer for request with ID 462 : Respect Yourself was added!
+Time 5 Answer for request with ID 463 : Rain was added!
+Time 13 Answer for request with ID 464 : Standing in the Shadows of Love was added!
+Time 10 Answer for request with ID 465 : Surrender was added!
+Time 3 Answer for request with ID 466 : Runaway was added!
+Time 20 Answer for request with ID 467 : Welcome to the Jungle was added!
+Time 7 Answer for request with ID 468 : Search and Destroy was added!
+Time 6 Answer for request with ID 469 : It's Too Late was added!
+Time 9 Answer for request with ID 470 : Free Man in Paris was added!
+Time 8 Answer for request with ID 471 : On the Road Again was added!
+Time 12 Answer for request with ID 472 : Where Did Our Love Go was added!
+Time 2 Answer for request with ID 473 : Do Right Woman was added!
+Time 18 Answer for request with ID 474 : One Nation Under a Groove was added!
+Time 14 Answer for request with ID 475 : Sabotage was added!
+Time 16 Answer for request with ID 476 : I Want to Know What Love Is was added!
+Time 8 Answer for request with ID 477 : Super Freak was added!
+Time 5 Answer for request with ID 478 : White Rabbit was added!
+Time 35 Answer for request with ID 479 : Lady Marmalade was added!
+Time 11 Answer for request with ID 480 : Into the Mystic was added!
+Time 2 Answer for request with ID 481 : Young Americans was added!
+Time 17 Answer for request with ID 482 : I'm Eighteen was added!
+Time 13 Answer for request with ID 483 : Just Like Heaven was added!
+Time 25 Answer for request with ID 484 : I Love Rock 'N Roll was added!
+Time 13 Answer for request with ID 485 : Graceland was added!
+Time 6 Answer for request with ID 486 : How Soon Is Now? was added!
+Time 3 Answer for request with ID 487 : Under the Boardwalk was added!
+Time 14 Answer for request with ID 488 : Rhiannon (Will You Ever Win) was added!
+Time 4 Answer for request with ID 489 : I Will Survive was added!
+Time 10 Answer for request with ID 490 : Brown Sugar was added!
+Time 11 Answer for request with ID 491 : You Don't Have to Say You Love Me was added!
+Time 10 Answer for request with ID 492 : Running on Empty was added!
+Time 2 Answer for request with ID 493 : Then He Kissed Me was added!
+Time 10 Answer for request with ID 494 : Desperado was added!
+Time 13 Answer for request with ID 495 : Shop Around was added!
+Time 7 Answer for request with ID 496 : Miss You was added!
+Time 18 Answer for request with ID 497 : Buddy Holly was added!
+Time 21 Answer for request with ID 498 : Rainy Night in Georgia was added!
+Time 15 Answer for request with ID 499 : The Boys Are Back in Town was added!
+Time 8 Answer for request with ID 500 : More Than a Feeling was added!

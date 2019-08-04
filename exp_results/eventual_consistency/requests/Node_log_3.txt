@@ -1,0 +1,500 @@
+Time 15 Answer for request with ID 1 : Hey Jude was added!
+Time 10 Answer for request with ID 2:  Hey Jude with value   501 found in node  33
+Time 1 Answer for request with ID 3:  Hey Jude with value   501 found in node  71
+Time 23 Answer for request with ID 4:  Hey Jude with value   501 found in node  33
+Time 19 Answer for request with ID 5:  What's Going On was not found!
+Time 4 Answer for request with ID 6 :  Hey Jude was updated!
+Time 19 Answer for request with ID 7:  Like a Rolling Stone was not found!
+Time 5 Answer for request with ID 8:  What's Going On was not found!
+Time 3 Answer for request with ID 9:  Hey Jude with value   502 found in node  33
+Time 37 Answer for request with ID 10:  Respect was not found!
+Time 18 Answer for request with ID 11 : Respect was added!
+Time 12 Answer for request with ID 12:  Hey Jude with value   502 found in node  33
+Time 24 Answer for request with ID 13:  Like a Rolling Stone was not found!
+Time 4 Answer for request with ID 14:  What's Going On was not found!
+Time 7 Answer for request with ID 15:  Respect with value   503 found in node  71
+Time 14 Answer for request with ID 16 : Like a Rolling Stone was added!
+Time 26 Answer for request with ID 17:  What's Going On was not found!
+Time 9 Answer for request with ID 18:  Hey Jude with value   502 found in node  71
+Time 10 Answer for request with ID 19:  Hey Jude with value   502 found in node  81
+Time 5 Answer for request with ID 20:  Like a Rolling Stone with value   504 found in node  121
+Time 10 Answer for request with ID 21 :  Hey Jude was updated!
+Time 42 Answer for request with ID 22:  What's Going On was not found!
+Time 6 Answer for request with ID 23:  Respect with value   503 found in node  71
+Time 7 Answer for request with ID 24:  Hey Jude with value   505 found in node  33
+Time 12 Answer for request with ID 25:  Hey Jude with value   505 found in node  33
+Time 25 Answer for request with ID 26 :  Hey Jude was updated!
+Time 21 Answer for request with ID 27:  Hey Jude with value   506 found in node  33
+Time 21 Answer for request with ID 28:  Hey Jude with value   506 found in node  33
+Time 2 Answer for request with ID 29:  Like a Rolling Stone with value   504 found in node  3
+Time 8 Answer for request with ID 30:  Respect with value   503 found in node  71
+Time 17 Answer for request with ID 31 :  Hey Jude was updated!
+Time 27 Answer for request with ID 32:  What's Going On was not found!
+Time 1 Answer for request with ID 33:  Hey Jude with value   507 found in node  81
+Time 12 Answer for request with ID 34:  What's Going On was not found!
+Time 7 Answer for request with ID 35:  Hey Jude with value   507 found in node  33
+Time 11 Answer for request with ID 36 : What's Going On was added!
+Time 14 Answer for request with ID 37:  What's Going On with value   508 found in node  121
+Time 10 Answer for request with ID 38:  Hey Jude with value   507 found in node  81
+Time 17 Answer for request with ID 39:  Hey Jude with value   507 found in node  33
+Time 2 Answer for request with ID 40:  Like a Rolling Stone with value   504 found in node  121
+Time 1 Answer for request with ID 42:  What's Going On with value   508 found in node  3
+Time 22 Answer for request with ID 41 :  Like a Rolling Stone was updated!
+Time 27 Answer for request with ID 43:  What's Going On with value   508 found in node  121
+Time 11 Answer for request with ID 44:  Hey Jude with value   507 found in node  33
+Time 31 Answer for request with ID 45:  Hey Jude with value   507 found in node  33
+Time 19 Answer for request with ID 46 :  What's Going On was updated!
+Time 14 Answer for request with ID 48:  Hey Jude with value   507 found in node  33
+Time 23 Answer for request with ID 47:  Respect with value   503 found in node  71
+Time 20 Answer for request with ID 49:  Hey Jude with value   507 found in node  33
+Time 7 Answer for request with ID 50:  Hey Jude with value   507 found in node  33
+Time 13 Answer for request with ID 51 :  Hey Jude was updated!
+Time 4 Answer for request with ID 52:  Like a Rolling Stone with value   509 found in node  124
+Time 31 Answer for request with ID 53:  What's Going On with value   510 found in node  121
+Time 1 Answer for request with ID 54:  Like a Rolling Stone with value   509 found in node  121
+Time 8 Answer for request with ID 55:  Respect with value   503 found in node  71
+Time 17 Answer for request with ID 56 :  Respect was updated!
+Time 17 Answer for request with ID 57:  Hey Jude with value   511 found in node  33
+Time 12 Answer for request with ID 58:  Respect with value   512 found in node  71
+Time 2 Answer for request with ID 59:  Like a Rolling Stone with value   509 found in node  121
+Time 1 Answer for request with ID 60:  Hey Jude with value   511 found in node  81
+Time 7 Answer for request with ID 61 :  Hey Jude was updated!
+Time 24 Answer for request with ID 62:  Respect with value   512 found in node  71
+Time 7 Answer for request with ID 63:  Respect with value   512 found in node  81
+Time 4 Answer for request with ID 64:  Hey Jude with value   513 found in node  33
+Time 2 Answer for request with ID 65:  Hey Jude with value   513 found in node  33
+Time 5 Answer for request with ID 66 :  Like a Rolling Stone was updated!
+Time 46 Answer for request with ID 67:  Hey Jude with value   513 found in node  33
+Time 23 Answer for request with ID 68:  Hey Jude with value   513 found in node  33
+Time 9 Answer for request with ID 69:  Respect with value   512 found in node  71
+Time 2 Answer for request with ID 70:  Respect with value   512 found in node  71
+Time 14 Answer for request with ID 71 :  What's Going On was updated!
+Time 3 Answer for request with ID 72:  Hey Jude with value   513 found in node  71
+Time 6 Answer for request with ID 73:  What's Going On with value   515 found in node  121
+Time 9 Answer for request with ID 74:  What's Going On with value   515 found in node  121
+Time 6 Answer for request with ID 76 :  Respect was updated!
+Time 11 Answer for request with ID 75:  What's Going On with value   515 found in node  121
+Time 7 Answer for request with ID 77:  Hey Jude with value   513 found in node  33
+Time 3 Answer for request with ID 78:  Respect with value   516 found in node  71
+Time 22 Answer for request with ID 79:  Respect with value   516 found in node  71
+Time 6 Answer for request with ID 80:  Hey Jude with value   513 found in node  33
+Time 30 Answer for request with ID 81 :  What's Going On was updated!
+Time 21 Answer for request with ID 82:  What's Going On with value   517 found in node  121
+Time 15 Answer for request with ID 83:  Hey Jude with value   513 found in node  33
+Time 2 Answer for request with ID 85:  Hey Jude with value   513 found in node  71
+Time 9 Answer for request with ID 84:  Like a Rolling Stone with value   514 found in node  121
+Time 25 Answer for request with ID 86 :  Hey Jude was updated!
+Time 2 Answer for request with ID 87:  Hey Jude with value   518 found in node  81
+Time 10 Answer for request with ID 88:  What's Going On with value   517 found in node  121
+Time 20 Answer for request with ID 89:  Like a Rolling Stone with value   514 found in node  121
+Time 26 Answer for request with ID 90:  Hey Jude with value   518 found in node  33
+Time 18 Answer for request with ID 91 :  Hey Jude was updated!
+Time 7 Answer for request with ID 92:  Like a Rolling Stone with value   514 found in node  121
+Time 13 Answer for request with ID 93:  Like a Rolling Stone with value   514 found in node  121
+Time 12 Answer for request with ID 94:  Hey Jude with value   519 found in node  33
+Time 6 Answer for request with ID 95:  Hey Jude with value   519 found in node  33
+Time 19 Answer for request with ID 96 :  Like a Rolling Stone was updated!
+Time 7 Answer for request with ID 97:  Hey Jude with value   519 found in node  33
+Time 18 Answer for request with ID 98:  Like a Rolling Stone with value   520 found in node  121
+Time 17 Answer for request with ID 99:  Like a Rolling Stone with value   520 found in node  121
+Time 10 Answer for request with ID 100:  Respect with value   516 found in node  71
+Time 23 Answer for request with ID 101 :  What's Going On was updated!
+Time 3 Answer for request with ID 102:  Like a Rolling Stone with value   520 found in node  124
+Time 10 Answer for request with ID 103:  Hey Jude with value   519 found in node  33
+Time 22 Answer for request with ID 104:  Respect with value   516 found in node  71
+Time 6 Answer for request with ID 105:  Hey Jude with value   519 found in node  33
+Time 2 Answer for request with ID 107:  Respect with value   522 found in node  85
+Time 23 Answer for request with ID 106 :  Respect was updated!
+Time 16 Answer for request with ID 108:  What's Going On with value   521 found in node  121
+Time 14 Answer for request with ID 109:  Hey Jude with value   519 found in node  33
+Time 13 Answer for request with ID 110:  What's Going On with value   521 found in node  121
+Time 5 Answer for request with ID 111 :  Hey Jude was updated!
+Time 1 Answer for request with ID 113:  Hey Jude with value   523 found in node  81
+Time 14 Answer for request with ID 112:  Like a Rolling Stone with value   520 found in node  121
+Time 4 Answer for request with ID 114:  Hey Jude with value   523 found in node  71
+Time 28 Answer for request with ID 115:  Hey Jude with value   523 found in node  33
+Time 18 Answer for request with ID 116 :  Hey Jude was updated!
+Time 7 Answer for request with ID 117:  Hey Jude with value   524 found in node  33
+Time 14 Answer for request with ID 118:  Hey Jude with value   524 found in node  33
+Time 10 Answer for request with ID 119:  Like a Rolling Stone with value   520 found in node  121
+Time 1 Answer for request with ID 120:  Like a Rolling Stone with value   520 found in node  124
+Time 23 Answer for request with ID 121 :  Hey Jude was updated!
+Time 6 Answer for request with ID 122:  Hey Jude with value   525 found in node  33
+Time 6 Answer for request with ID 123:  Like a Rolling Stone with value   520 found in node  121
+Time 3 Answer for request with ID 125:  Hey Jude with value   525 found in node  33
+Time 20 Answer for request with ID 124:  Hey Jude with value   525 found in node  33
+Time 10 Answer for request with ID 126 :  Hey Jude was updated!
+Time 11 Answer for request with ID 127:  Respect with value   522 found in node  71
+Time 1 Answer for request with ID 128:  Like a Rolling Stone with value   520 found in node  124
+Time 10 Answer for request with ID 129:  Like a Rolling Stone with value   520 found in node  3
+Time 9 Answer for request with ID 130:  Hey Jude with value   526 found in node  33
+Time 11 Answer for request with ID 131 :  Like a Rolling Stone was updated!
+Time 1 Answer for request with ID 132:  Respect with value   522 found in node  71
+Time 1 Answer for request with ID 134:  Hey Jude with value   526 found in node  71
+Time 12 Answer for request with ID 133:  Respect with value   522 found in node  71
+Time 10 Answer for request with ID 135:  What's Going On with value   521 found in node  121
+Time 8 Answer for request with ID 136 :  Respect was updated!
+Time 14 Answer for request with ID 137:  What's Going On with value   521 found in node  121
+Time 5 Answer for request with ID 138:  Hey Jude with value   526 found in node  33
+Time 6 Answer for request with ID 139:  Hey Jude with value   526 found in node  33
+Time 7 Answer for request with ID 140:  What's Going On with value   521 found in node  121
+Time 21 Answer for request with ID 141 :  What's Going On was updated!
+Time 10 Answer for request with ID 142:  Respect with value   528 found in node  71
+Time 1 Answer for request with ID 143:  Hey Jude with value   526 found in node  81
+Time 10 Answer for request with ID 144:  What's Going On with value   529 found in node  121
+Time 1 Answer for request with ID 145:  Hey Jude with value   526 found in node  71
+Time 15 Answer for request with ID 146 :  Hey Jude was updated!
+Time 2 Answer for request with ID 147:  Respect with value   528 found in node  71
+Time 12 Answer for request with ID 148:  Hey Jude with value   530 found in node  33
+Time 9 Answer for request with ID 149:  Respect with value   528 found in node  71
+Time 24 Answer for request with ID 150:  What's Going On with value   529 found in node  121
+Time 21 Answer for request with ID 151 :  What's Going On was updated!
+Time 19 Answer for request with ID 152:  What's Going On with value   531 found in node  121
+Time 5 Answer for request with ID 153:  Hey Jude with value   530 found in node  33
+Time 6 Answer for request with ID 154:  Respect with value   528 found in node  71
+Time 2 Answer for request with ID 155:  Hey Jude with value   530 found in node  81
+Time 10 Answer for request with ID 156 :  Hey Jude was updated!
+Time 4 Answer for request with ID 157:  Hey Jude with value   532 found in node  33
+Time 1 Answer for request with ID 158:  Hey Jude with value   532 found in node  33
+Time 4 Answer for request with ID 159:  Respect with value   528 found in node  71
+Time 12 Answer for request with ID 160:  Hey Jude with value   532 found in node  33
+Time 10 Answer for request with ID 161 :  What's Going On was updated!
+Time 22 Answer for request with ID 162:  Like a Rolling Stone with value   527 found in node  121
+Time 7 Answer for request with ID 163:  Hey Jude with value   532 found in node  71
+Time 10 Answer for request with ID 164:  Respect with value   528 found in node  71
+Time 4 Answer for request with ID 165:  Hey Jude with value   532 found in node  33
+Time 23 Answer for request with ID 166 :  Hey Jude was updated!
+Time 2 Answer for request with ID 167:  Hey Jude with value   534 found in node  33
+Time 2 Answer for request with ID 168:  What's Going On with value   533 found in node  124
+Time 5 Answer for request with ID 169:  Hey Jude with value   534 found in node  33
+Time 9 Answer for request with ID 170:  Like a Rolling Stone with value   527 found in node  121
+Time 7 Answer for request with ID 171 :  Hey Jude was updated!
+Time 3 Answer for request with ID 172:  Hey Jude with value   535 found in node  81
+Time 3 Answer for request with ID 173:  What's Going On with value   533 found in node  121
+Time 13 Answer for request with ID 174:  Like a Rolling Stone with value   527 found in node  121
+Time 4 Answer for request with ID 175:  Hey Jude with value   535 found in node  33
+Time 23 Answer for request with ID 176 :  Like a Rolling Stone was updated!
+Time 14 Answer for request with ID 177:  Hey Jude with value   535 found in node  33
+Time 1 Answer for request with ID 180:  Hey Jude with value   535 found in node  71
+Time 33 Answer for request with ID 178:  What's Going On with value   533 found in node  121
+Time 9 Answer for request with ID 179:  Hey Jude with value   535 found in node  33
+Time 22 Answer for request with ID 181 :  What's Going On was updated!
+Time 3 Answer for request with ID 182:  Hey Jude with value   535 found in node  33
+Time 21 Answer for request with ID 183:  Respect with value   528 found in node  71
+Time 8 Answer for request with ID 184:  Hey Jude with value   535 found in node  33
+Time 1 Answer for request with ID 185:  Like a Rolling Stone with value   536 found in node  121
+Time 9 Answer for request with ID 186 :  What's Going On was updated!
+Time 10 Answer for request with ID 187:  Hey Jude with value   535 found in node  33
+Time 8 Answer for request with ID 188:  Hey Jude with value   535 found in node  33
+Time 13 Answer for request with ID 189:  Hey Jude with value   535 found in node  33
+Time 17 Answer for request with ID 190:  What's Going On with value   538 found in node  121
+Time 4 Answer for request with ID 191 :  Hey Jude was updated!
+Time 20 Answer for request with ID 192:  What's Going On with value   538 found in node  121
+Time 2 Answer for request with ID 193:  Hey Jude with value   539 found in node  33
+Time 2 Answer for request with ID 194:  What's Going On with value   538 found in node  121
+Time 2 Answer for request with ID 195:  Like a Rolling Stone with value   536 found in node  121
+Time 15 Answer for request with ID 196 :  Hey Jude was updated!
+Time 2 Answer for request with ID 197:  Respect with value   528 found in node  81
+Time 3 Answer for request with ID 198:  Hey Jude with value   540 found in node  33
+Time 22 Answer for request with ID 199:  Like a Rolling Stone with value   536 found in node  121
+Time 6 Answer for request with ID 200:  Respect with value   528 found in node  71
+Time 23 Answer for request with ID 201 :  Respect was updated!
+Time 5 Answer for request with ID 202:  Respect with value   541 found in node  71
+Time 1 Answer for request with ID 203:  Like a Rolling Stone with value   536 found in node  3
+Time 21 Answer for request with ID 204:  What's Going On with value   538 found in node  121
+Time 3 Answer for request with ID 205:  Hey Jude with value   540 found in node  33
+Time 1 Answer for request with ID 207:  What's Going On with value   538 found in node  121
+Time 34 Answer for request with ID 206 :  Hey Jude was updated!
+Time 15 Answer for request with ID 208:  Hey Jude with value   542 found in node  33
+Time 2 Answer for request with ID 209:  What's Going On with value   538 found in node  124
+Time 5 Answer for request with ID 210:  Like a Rolling Stone with value   536 found in node  121
+Time 12 Answer for request with ID 211 :  Hey Jude was updated!
+Time 12 Answer for request with ID 212:  Hey Jude with value   543 found in node  33
+Time 4 Answer for request with ID 213:  Respect with value   541 found in node  71
+Time 2 Answer for request with ID 214:  Hey Jude with value   543 found in node  81
+Time 7 Answer for request with ID 215:  Hey Jude with value   543 found in node  33
+Time 9 Answer for request with ID 216 :  Hey Jude was updated!
+Time 26 Answer for request with ID 217:  Respect with value   541 found in node  71
+Time 3 Answer for request with ID 218:  What's Going On with value   538 found in node  124
+Time 6 Answer for request with ID 219:  Hey Jude with value   544 found in node  33
+Time 2 Answer for request with ID 220:  Respect with value   541 found in node  71
+Time 18 Answer for request with ID 221 :  Like a Rolling Stone was updated!
+Time 17 Answer for request with ID 222:  Like a Rolling Stone with value   545 found in node  121
+Time 4 Answer for request with ID 223:  Respect with value   541 found in node  71
+Time 25 Answer for request with ID 224:  What's Going On with value   538 found in node  121
+Time 17 Answer for request with ID 225:  What's Going On with value   538 found in node  121
+Time 14 Answer for request with ID 226 :  What's Going On was updated!
+Time 11 Answer for request with ID 227:  Hey Jude with value   544 found in node  33
+Time 15 Answer for request with ID 228:  What's Going On with value   546 found in node  121
+Time 4 Answer for request with ID 229:  Hey Jude with value   544 found in node  33
+Time 4 Answer for request with ID 230:  Hey Jude with value   544 found in node  81
+Time 6 Answer for request with ID 231 :  Like a Rolling Stone was updated!
+Time 1 Answer for request with ID 232:  What's Going On with value   546 found in node  3
+Time 1 Answer for request with ID 233:  Hey Jude with value   544 found in node  81
+Time 10 Answer for request with ID 234:  Hey Jude with value   544 found in node  33
+Time 6 Answer for request with ID 235:  Hey Jude with value   544 found in node  33
+Time 26 Answer for request with ID 236 :  Respect was updated!
+Time 8 Answer for request with ID 237:  Hey Jude with value   544 found in node  33
+Time 3 Answer for request with ID 238:  Like a Rolling Stone with value   547 found in node  124
+Time 6 Answer for request with ID 239:  Like a Rolling Stone with value   547 found in node  121
+Time 8 Answer for request with ID 240:  Hey Jude with value   544 found in node  33
+Time 22 Answer for request with ID 241 :  Hey Jude was updated!
+Time 10 Answer for request with ID 242:  Hey Jude with value   549 found in node  33
+Time 0 Answer for request with ID 244:  Respect with value   548 found in node  81
+Time 21 Answer for request with ID 243:  What's Going On with value   546 found in node  121
+Time 4 Answer for request with ID 245:  Respect with value   548 found in node  71
+Time 29 Answer for request with ID 246 :  Respect was updated!
+Time 5 Answer for request with ID 247:  Respect with value   550 found in node  71
+Time 3 Answer for request with ID 248:  Hey Jude with value   549 found in node  33
+Time 11 Answer for request with ID 249:  What's Going On with value   546 found in node  121
+Time 5 Answer for request with ID 250:  Hey Jude with value   549 found in node  33
+Time 6 Answer for request with ID 251 :  Like a Rolling Stone was updated!
+Time 3 Answer for request with ID 252:  What's Going On with value   546 found in node  121
+Time 18 Answer for request with ID 253:  What's Going On with value   546 found in node  121
+Time 4 Answer for request with ID 254:  Respect with value   550 found in node  71
+Time 14 Answer for request with ID 255:  Respect with value   550 found in node  71
+Time 9 Answer for request with ID 256 :  Hey Jude was updated!
+Time 14 Answer for request with ID 257:  Hey Jude with value   552 found in node  33
+Time 4 Answer for request with ID 258:  Respect with value   550 found in node  71
+Time 11 Answer for request with ID 259:  What's Going On with value   546 found in node  121
+Time 7 Answer for request with ID 260:  Hey Jude with value   552 found in node  33
+Time 6 Answer for request with ID 261 :  Respect was updated!
+Time 13 Answer for request with ID 262:  Hey Jude with value   552 found in node  33
+Time 1 Answer for request with ID 263:  Respect with value   553 found in node  71
+Time 11 Answer for request with ID 264:  Like a Rolling Stone with value   551 found in node  121
+Time 8 Answer for request with ID 265:  What's Going On with value   546 found in node  121
+Time 11 Answer for request with ID 266 :  Respect was updated!
+Time 5 Answer for request with ID 267:  Hey Jude with value   552 found in node  71
+Time 28 Answer for request with ID 268:  Like a Rolling Stone with value   551 found in node  121
+Time 4 Answer for request with ID 269:  Hey Jude with value   552 found in node  33
+Time 2 Answer for request with ID 270:  Hey Jude with value   552 found in node  33
+Time 17 Answer for request with ID 271 :  Hey Jude was updated!
+Time 7 Answer for request with ID 272:  Hey Jude with value   555 found in node  33
+Time 5 Answer for request with ID 273:  Respect with value   554 found in node  71
+Time 3 Answer for request with ID 274:  What's Going On with value   546 found in node  124
+Time 17 Answer for request with ID 275:  Hey Jude with value   555 found in node  33
+Time 16 Answer for request with ID 276 :  Hey Jude was updated!
+Time 11 Answer for request with ID 277:  Like a Rolling Stone with value   551 found in node  121
+Time 12 Answer for request with ID 278:  Like a Rolling Stone with value   551 found in node  3
+Time 9 Answer for request with ID 279:  Hey Jude with value   556 found in node  33
+Time 2 Answer for request with ID 280:  What's Going On with value   546 found in node  121
+Time 9 Answer for request with ID 281 :  Hey Jude was updated!
+Time 2 Answer for request with ID 282:  Hey Jude with value   557 found in node  33
+Time 1 Answer for request with ID 284:  Like a Rolling Stone with value   551 found in node  121
+Time 7 Answer for request with ID 283:  Hey Jude with value   557 found in node  33
+Time 8 Answer for request with ID 285:  Respect with value   554 found in node  71
+Time 26 Answer for request with ID 286 :  Hey Jude was updated!
+Time 21 Answer for request with ID 287:  What's Going On with value   546 found in node  121
+Time 2 Answer for request with ID 288:  Hey Jude with value   558 found in node  81
+Time 1 Answer for request with ID 289:  Hey Jude with value   558 found in node  33
+Time 1 Answer for request with ID 290:  Respect with value   554 found in node  85
+Time 8 Answer for request with ID 291 :  Respect was updated!
+Time 15 Answer for request with ID 292:  Hey Jude with value   558 found in node  33
+Time 11 Answer for request with ID 293:  Respect with value   559 found in node  71
+Time 5 Answer for request with ID 294:  Hey Jude with value   558 found in node  33
+Time 1 Answer for request with ID 295:  Hey Jude with value   558 found in node  33
+Time 22 Answer for request with ID 296 :  Respect was updated!
+Time 3 Answer for request with ID 297:  Respect with value   560 found in node  71
+Time 1 Answer for request with ID 298:  Hey Jude with value   558 found in node  71
+Time 4 Answer for request with ID 299:  What's Going On with value   546 found in node  121
+Time 16 Answer for request with ID 300:  What's Going On with value   546 found in node  121
+Time 10 Answer for request with ID 301 :  Hey Jude was updated!
+Time 6 Answer for request with ID 302:  What's Going On with value   546 found in node  3
+Time 3 Answer for request with ID 303:  Like a Rolling Stone with value   551 found in node  124
+Time 4 Answer for request with ID 304:  Respect with value   560 found in node  71
+Time 4 Answer for request with ID 305:  Like a Rolling Stone with value   551 found in node  3
+Time 18 Answer for request with ID 306 :  What's Going On was updated!
+Time 7 Answer for request with ID 307:  Hey Jude with value   561 found in node  33
+Time 1 Answer for request with ID 308:  Hey Jude with value   561 found in node  33
+Time 6 Answer for request with ID 309:  Like a Rolling Stone with value   551 found in node  121
+Time 3 Answer for request with ID 310:  What's Going On with value   562 found in node  124
+Time 18 Answer for request with ID 311 :  What's Going On was updated!
+Time 20 Answer for request with ID 312:  Hey Jude with value   561 found in node  33
+Time 10 Answer for request with ID 313:  Hey Jude with value   561 found in node  33
+Time 4 Answer for request with ID 314:  Respect with value   560 found in node  85
+Time 6 Answer for request with ID 315:  Hey Jude with value   561 found in node  33
+Time 12 Answer for request with ID 316 :  What's Going On was updated!
+Time 12 Answer for request with ID 317:  Hey Jude with value   561 found in node  33
+Time 10 Answer for request with ID 318:  Like a Rolling Stone with value   551 found in node  3
+Time 10 Answer for request with ID 319:  What's Going On with value   564 found in node  121
+Time 20 Answer for request with ID 320:  Respect with value   560 found in node  71
+Time 13 Answer for request with ID 321 :  Hey Jude was updated!
+Time 7 Answer for request with ID 322:  Respect with value   560 found in node  71
+Time 1 Answer for request with ID 323:  Like a Rolling Stone with value   551 found in node  124
+Time 1 Answer for request with ID 324:  Hey Jude with value   565 found in node  71
+Time 1 Answer for request with ID 325:  Respect with value   560 found in node  85
+Time 15 Answer for request with ID 326 :  Respect was updated!
+Time 6 Answer for request with ID 327:  Hey Jude with value   565 found in node  33
+Time 4 Answer for request with ID 328:  What's Going On with value   564 found in node  121
+Time 9 Answer for request with ID 329:  Respect with value   566 found in node  71
+Time 1 Answer for request with ID 330:  What's Going On with value   564 found in node  121
+Time 2 Answer for request with ID 331 :  Respect was updated!
+Time 16 Answer for request with ID 332:  Respect with value   567 found in node  71
+Time 5 Answer for request with ID 333:  Like a Rolling Stone with value   551 found in node  121
+Time 2 Answer for request with ID 334:  Hey Jude with value   565 found in node  81
+Time 12 Answer for request with ID 335:  Hey Jude with value   565 found in node  33
+Time 6 Answer for request with ID 336 :  Hey Jude was updated!
+Time 3 Answer for request with ID 337:  Hey Jude with value   568 found in node  33
+Time 0 Answer for request with ID 338:  Respect with value   567 found in node  85
+Time 5 Answer for request with ID 339:  Respect with value   567 found in node  71
+Time 5 Answer for request with ID 340:  Respect with value   567 found in node  71
+Time 13 Answer for request with ID 341 :  What's Going On was updated!
+Time 6 Answer for request with ID 342:  Hey Jude with value   568 found in node  33
+Time 5 Answer for request with ID 343:  Hey Jude with value   568 found in node  33
+Time 7 Answer for request with ID 344:  Hey Jude with value   568 found in node  33
+Time 8 Answer for request with ID 345:  Hey Jude with value   568 found in node  33
+Time 11 Answer for request with ID 346 :  Hey Jude was updated!
+Time 6 Answer for request with ID 347:  Hey Jude with value   570 found in node  33
+Time 4 Answer for request with ID 348:  Hey Jude with value   570 found in node  33
+Time 4 Answer for request with ID 349:  What's Going On with value   569 found in node  121
+Time 12 Answer for request with ID 350:  Respect with value   567 found in node  71
+Time 8 Answer for request with ID 351 :  Like a Rolling Stone was updated!
+Time 3 Answer for request with ID 352:  Hey Jude with value   570 found in node  33
+Time 21 Answer for request with ID 353:  What's Going On with value   569 found in node  121
+Time 9 Answer for request with ID 354:  Like a Rolling Stone with value   571 found in node  121
+Time 3 Answer for request with ID 355:  Hey Jude with value   570 found in node  81
+Time 16 Answer for request with ID 356 :  Hey Jude was updated!
+Time 1 Answer for request with ID 357:  What's Going On with value   569 found in node  3
+Time 3 Answer for request with ID 358:  What's Going On with value   569 found in node  124
+Time 1 Answer for request with ID 359:  What's Going On with value   569 found in node  3
+Time 2 Answer for request with ID 360:  What's Going On with value   569 found in node  121
+Time 9 Answer for request with ID 361 :  Hey Jude was updated!
+Time 1 Answer for request with ID 362:  Hey Jude with value   573 found in node  81
+Time 11 Answer for request with ID 363:  Hey Jude with value   573 found in node  33
+Time 1 Answer for request with ID 364:  Hey Jude with value   573 found in node  81
+Time 3 Answer for request with ID 365:  Hey Jude with value   573 found in node  33
+Time 27 Answer for request with ID 366 :  What's Going On was updated!
+Time 1 Answer for request with ID 367:  Like a Rolling Stone with value   571 found in node  121
+Time 13 Answer for request with ID 368:  Hey Jude with value   573 found in node  33
+Time 4 Answer for request with ID 369:  Respect with value   567 found in node  71
+Time 1 Answer for request with ID 370:  Respect with value   567 found in node  81
+Time 5 Answer for request with ID 371 :  Like a Rolling Stone was updated!
+Time 6 Answer for request with ID 372:  Hey Jude with value   573 found in node  33
+Time 8 Answer for request with ID 373:  Hey Jude with value   573 found in node  33
+Time 2 Answer for request with ID 374:  Like a Rolling Stone with value   575 found in node  121
+Time 7 Answer for request with ID 375:  Hey Jude with value   573 found in node  33
+Time 10 Answer for request with ID 376 :  Hey Jude was updated!
+Time 1 Answer for request with ID 377:  Respect with value   567 found in node  85
+Time 16 Answer for request with ID 378:  Hey Jude with value   576 found in node  33
+Time 2 Answer for request with ID 379:  Hey Jude with value   576 found in node  33
+Time 5 Answer for request with ID 380:  What's Going On with value   574 found in node  121
+Time 16 Answer for request with ID 381 :  Like a Rolling Stone was updated!
+Time 4 Answer for request with ID 382:  Respect with value   567 found in node  71
+Time 5 Answer for request with ID 383:  Like a Rolling Stone with value   577 found in node  121
+Time 19 Answer for request with ID 384:  What's Going On with value   574 found in node  121
+Time 5 Answer for request with ID 385:  Like a Rolling Stone with value   577 found in node  3
+Time 6 Answer for request with ID 386 :  Like a Rolling Stone was updated!
+Time 1 Answer for request with ID 388:  Hey Jude with value   576 found in node  71
+Time 13 Answer for request with ID 387:  Like a Rolling Stone with value   578 found in node  3
+Time 9 Answer for request with ID 389:  Hey Jude with value   576 found in node  33
+Time 1 Answer for request with ID 390:  What's Going On with value   574 found in node  124
+Time 9 Answer for request with ID 391 :  Hey Jude was updated!
+Time 1 Answer for request with ID 392:  Hey Jude with value   579 found in node  71
+Time 1 Answer for request with ID 393:  What's Going On with value   574 found in node  124
+Time 19 Answer for request with ID 394:  What's Going On with value   574 found in node  121
+Time 13 Answer for request with ID 395:  Hey Jude with value   579 found in node  81
+Time 13 Answer for request with ID 396 :  Hey Jude was updated!
+Time 6 Answer for request with ID 397:  Respect with value   567 found in node  71
+Time 8 Answer for request with ID 398:  Like a Rolling Stone with value   578 found in node  121
+Time 23 Answer for request with ID 399:  Like a Rolling Stone with value   578 found in node  121
+Time 8 Answer for request with ID 400:  What's Going On with value   574 found in node  121
+Time 15 Answer for request with ID 401 :  Hey Jude was updated!
+Time 1 Answer for request with ID 402:  Respect with value   567 found in node  81
+Time 9 Answer for request with ID 403:  Hey Jude with value   581 found in node  33
+Time 9 Answer for request with ID 404:  What's Going On with value   574 found in node  3
+Time 11 Answer for request with ID 405:  Hey Jude with value   581 found in node  33
+Time 3 Answer for request with ID 407:  Respect with value   567 found in node  71
+Time 7 Answer for request with ID 408:  Respect with value   567 found in node  71
+Time 31 Answer for request with ID 406 :  Like a Rolling Stone was updated!
+Time 36 Answer for request with ID 409:  Hey Jude with value   581 found in node  33
+Time 3 Answer for request with ID 410:  Hey Jude with value   581 found in node  33
+Time 17 Answer for request with ID 411 :  Like a Rolling Stone was updated!
+Time 7 Answer for request with ID 412:  Hey Jude with value   581 found in node  33
+Time 3 Answer for request with ID 413:  Like a Rolling Stone with value   583 found in node  3
+Time 3 Answer for request with ID 415:  Hey Jude with value   581 found in node  33
+Time 8 Answer for request with ID 414:  Hey Jude with value   581 found in node  33
+Time 17 Answer for request with ID 416 :  Respect was updated!
+Time 7 Answer for request with ID 418:  Like a Rolling Stone with value   583 found in node  121
+Time 26 Answer for request with ID 417:  Hey Jude with value   581 found in node  33
+Time 0 Answer for request with ID 419:  Hey Jude with value   581 found in node  81
+Time 6 Answer for request with ID 420:  Hey Jude with value   581 found in node  33
+Time 10 Answer for request with ID 421 :  Like a Rolling Stone was updated!
+Time 7 Answer for request with ID 422:  Respect with value   584 found in node  71
+Time 12 Answer for request with ID 423:  What's Going On with value   574 found in node  121
+Time 13 Answer for request with ID 424:  Like a Rolling Stone with value   585 found in node  121
+Time 2 Answer for request with ID 425:  Respect with value   584 found in node  81
+Time 4 Answer for request with ID 426 :  Hey Jude was updated!
+Time 2 Answer for request with ID 427:  Hey Jude with value   586 found in node  33
+Time 5 Answer for request with ID 428:  Like a Rolling Stone with value   585 found in node  3
+Time 1 Answer for request with ID 429:  Hey Jude with value   586 found in node  33
+Time 2 Answer for request with ID 430:  Hey Jude with value   586 found in node  81
+Time 22 Answer for request with ID 431 :  Respect was updated!
+Time 5 Answer for request with ID 432:  Hey Jude with value   586 found in node  33
+Time 5 Answer for request with ID 433:  Hey Jude with value   586 found in node  33
+Time 12 Answer for request with ID 434:  Hey Jude with value   586 found in node  33
+Time 1 Answer for request with ID 435:  Hey Jude with value   586 found in node  81
+Time 6 Answer for request with ID 436 :  Hey Jude was updated!
+Time 11 Answer for request with ID 437:  Respect with value   587 found in node  71
+Time 11 Answer for request with ID 438:  Hey Jude with value   588 found in node  33
+Time 10 Answer for request with ID 439:  Hey Jude with value   588 found in node  33
+Time 1 Answer for request with ID 440:  Like a Rolling Stone with value   585 found in node  3
+Time 10 Answer for request with ID 441 :  Respect was updated!
+Time 5 Answer for request with ID 442:  What's Going On with value   574 found in node  121
+Time 3 Answer for request with ID 443:  Hey Jude with value   588 found in node  33
+Time 22 Answer for request with ID 444:  Like a Rolling Stone with value   585 found in node  121
+Time 2 Answer for request with ID 445:  What's Going On with value   574 found in node  124
+Time 6 Answer for request with ID 446 :  What's Going On was updated!
+Time 2 Answer for request with ID 447:  Respect with value   589 found in node  71
+Time 25 Answer for request with ID 448:  Like a Rolling Stone with value   585 found in node  121
+Time 1 Answer for request with ID 449:  Respect with value   589 found in node  71
+Time 3 Answer for request with ID 450:  Hey Jude with value   588 found in node  71
+Time 9 Answer for request with ID 451 :  Hey Jude was updated!
+Time 1 Answer for request with ID 452:  Hey Jude with value   591 found in node  33
+Time 7 Answer for request with ID 453:  Hey Jude with value   591 found in node  33
+Time 3 Answer for request with ID 454:  Like a Rolling Stone with value   585 found in node  124
+Time 2 Answer for request with ID 455:  Like a Rolling Stone with value   585 found in node  124
+Time 6 Answer for request with ID 456 :  What's Going On was updated!
+Time 8 Answer for request with ID 457:  Respect with value   589 found in node  71
+Time 6 Answer for request with ID 458:  Respect with value   589 found in node  71
+Time 17 Answer for request with ID 459:  Like a Rolling Stone with value   585 found in node  121
+Time 1 Answer for request with ID 460:  Like a Rolling Stone with value   585 found in node  124
+Time 11 Answer for request with ID 461 :  Like a Rolling Stone was updated!
+Time 2 Answer for request with ID 462:  Hey Jude with value   591 found in node  71
+Time 1 Answer for request with ID 463:  Like a Rolling Stone with value   593 found in node  121
+Time 1 Answer for request with ID 464:  Hey Jude with value   591 found in node  71
+Time 5 Answer for request with ID 465:  Hey Jude with value   591 found in node  33
+Time 12 Answer for request with ID 466 :  Hey Jude was updated!
+Time 10 Answer for request with ID 467:  What's Going On with value   592 found in node  121
+Time 11 Answer for request with ID 468:  Hey Jude with value   594 found in node  33
+Time 3 Answer for request with ID 469:  Like a Rolling Stone with value   593 found in node  121
+Time 21 Answer for request with ID 470:  Hey Jude with value   594 found in node  33
+Time 10 Answer for request with ID 471 :  Hey Jude was updated!
+Time 3 Answer for request with ID 472:  Like a Rolling Stone with value   593 found in node  121
+Time 1 Answer for request with ID 473:  Hey Jude with value   595 found in node  81
+Time 7 Answer for request with ID 474:  Respect with value   589 found in node  71
+Time 14 Answer for request with ID 475:  Hey Jude with value   595 found in node  33
+Time 10 Answer for request with ID 476 :  Hey Jude was updated!
+Time 4 Answer for request with ID 477:  Like a Rolling Stone with value   593 found in node  121
+Time 1 Answer for request with ID 478:  Hey Jude with value   596 found in node  33
+Time 20 Answer for request with ID 479:  Hey Jude with value   596 found in node  33
+Time 6 Answer for request with ID 480:  What's Going On with value   592 found in node  121
+Time 3 Answer for request with ID 481 :  Hey Jude was updated!
+Time 5 Answer for request with ID 482:  Hey Jude with value   597 found in node  81
+Time 12 Answer for request with ID 483:  What's Going On with value   592 found in node  121
+Time 7 Answer for request with ID 484:  Like a Rolling Stone with value   593 found in node  121
+Time 1 Answer for request with ID 485:  Hey Jude with value   597 found in node  71
+Time 4 Answer for request with ID 486 :  Hey Jude was updated!
+Time 8 Answer for request with ID 487:  Hey Jude with value   598 found in node  33
+Time 7 Answer for request with ID 488:  Like a Rolling Stone with value   593 found in node  124
+Time 2 Answer for request with ID 489:  What's Going On with value   592 found in node  3
+Time 4 Answer for request with ID 490:  Respect with value   589 found in node  71
+Time 30 Answer for request with ID 491 :  Like a Rolling Stone was updated!
+Time 18 Answer for request with ID 492:  Hey Jude with value   598 found in node  33
+Time 13 Answer for request with ID 493:  Respect with value   589 found in node  71
+Time 6 Answer for request with ID 494:  What's Going On with value   592 found in node  121
+Time 1 Answer for request with ID 495:  Respect with value   589 found in node  71
+Time 26 Answer for request with ID 496 :  Like a Rolling Stone was updated!
+Time 7 Answer for request with ID 497:  Hey Jude with value   598 found in node  33
+Time 10 Answer for request with ID 498:  Hey Jude with value   598 found in node  33
+Time 11 Answer for request with ID 499:  Respect with value   589 found in node  71
+Time 7 Answer for request with ID 500:  Like a Rolling Stone with value   600 found in node  121
